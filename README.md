@@ -29,6 +29,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/qubist/esperanto-phrase
 - https://github.com/martinrue/eopl
 - https://github.com/martinrue/vocx
+- https://github.com/martinrue/ofteco
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 

@@ -35,8 +35,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/umpirsky/language-list
 - https://github.com/umpirsky/currency-list
 - https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
-- https://github.com/yvesnevelsteen/duckduckgo-locales
-
+- https://github.com/duckduckgo/duckduckgo-locales
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

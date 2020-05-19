@@ -14,8 +14,6 @@ Bv. aldonu per *pull request*.
 - https://github.com/AksoEo
 - https://github.com/parolrekonado
 - https://github.com/revuloj
-- https://github.com/LaPingvino/Esperanto-Town-Names
-- https://github.com/qubist/esperanto-phrase
 
 ## Kodprojektoj
 
@@ -26,7 +24,8 @@ Bv. aldonu per *pull request*.
 - https://github.com/nordfalk/skrablo-vortaro
 - https://github.com/nordfalk/EsperantoRadio
 - https://github.com/bpeel/Muzaiko
-- 
+- https://github.com/LaPingvino/Esperanto-Town-Names
+- https://github.com/qubist/esperanto-phrase
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 

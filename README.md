@@ -29,9 +29,12 @@ Bv. aldonu per *pull request*.
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 
-- https://github.com/umpirsky/country-list
 - https://github.com/languagetool-org/languagetool
+- https://github.com/umpirsky/country-list
+- https://github.com/umpirsky/language-list
+- https://github.com/umpirsky/currency-list
 - https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

@@ -28,6 +28,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/LaPingvino/Esperanto-Town-Names
 - https://github.com/qubist/esperanto-phrase
 - https://github.com/martinrue/eopl
+- https://github.com/martinrue/vocx
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 

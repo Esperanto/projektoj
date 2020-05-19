@@ -14,6 +14,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/AksoEo
 - https://github.com/parolrekonado
 - https://github.com/revuloj
+- https://github.com/KomputekoNet
 
 ## Kodprojektoj
 
@@ -26,6 +27,9 @@ Bv. aldonu per *pull request*.
 - https://github.com/bpeel/Muzaiko
 - https://github.com/LaPingvino/Esperanto-Town-Names
 - https://github.com/qubist/esperanto-phrase
+- https://github.com/martinrue/eopl
+- https://github.com/martinrue/vocx
+- https://github.com/martinrue/ofteco
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 
@@ -34,7 +38,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/umpirsky/language-list
 - https://github.com/umpirsky/currency-list
 - https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
-
+- https://github.com/duckduckgo/duckduckgo-locales
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 
@@ -42,4 +46,5 @@ Bv. aldonu per *pull request*.
 - https://eo.wikipedia.org/
 - https://voice.mozilla.org/eo
 - https://languagetool.org/eo/
+- https://duckduckgo.com/
 

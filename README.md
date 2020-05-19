@@ -14,6 +14,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/AksoEo
 - https://github.com/parolrekonado
 - https://github.com/revuloj
+- https://github.com/KomputekoNet
 
 ## Kodprojektoj
 

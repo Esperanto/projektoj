@@ -27,6 +27,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/bpeel/Muzaiko
 - https://github.com/LaPingvino/Esperanto-Town-Names
 - https://github.com/qubist/esperanto-phrase
+- https://github.com/martinrue/eopl
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 

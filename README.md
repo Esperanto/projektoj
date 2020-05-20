@@ -58,6 +58,7 @@ Bv. aldonu per *pull request*.
 - Wordpress: https://translate.wordpress.com/projects/wpcom/eo/default/
 - Drupal: https://www.drupal.org/project/eo
 - Haiku: https://dev.haiku-os.org/wiki/i18n/eo/Info
+- The Translation Project: http://translationproject.org/team/eo.html
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 
@@ -71,3 +72,4 @@ Bv. aldonu per *pull request*.
 
 - Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
 - Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
+- Ludoj en Esperanto: http://mpovorin.narod.ru/ludoj/ludoj.html

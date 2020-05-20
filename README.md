@@ -29,7 +29,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/martinrue/vocx
 - https://github.com/martinrue/ofteco
 
-# Addons:
+### Addons:
 
 - https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
 - https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/

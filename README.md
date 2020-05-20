@@ -49,8 +49,9 @@ Bv. aldonu per *pull request*.
 - https://github.com/umpirsky/currency-list
 - https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 
-### Traduktado
+### Tradukado
 
+- The Translation Project: http://translationproject.org/team/eo.html
 - DuckDuckGo: https://github.com/duckduckgo/duckduckgo-locales
 - Mozilla: https://pontoon.mozilla.org/eo/
 - KDE: https://l10n.kde.org/team-infos.php?teamcode=eo
@@ -58,7 +59,7 @@ Bv. aldonu per *pull request*.
 - Wordpress: https://translate.wordpress.com/projects/wpcom/eo/default/
 - Drupal: https://www.drupal.org/project/eo
 - Haiku: https://dev.haiku-os.org/wiki/i18n/eo/Info
-- The Translation Project: http://translationproject.org/team/eo.html
+- SuperTuxKart: https://supertuxkart.net/Translating_STK
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

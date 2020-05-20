@@ -59,7 +59,10 @@ Bv. aldonu per *pull request*.
 - Wordpress: https://translate.wordpress.com/projects/wpcom/eo/default/
 - Drupal: https://www.drupal.org/project/eo
 - Haiku: https://dev.haiku-os.org/wiki/i18n/eo/Info
+
+#### Ludoj
 - SuperTuxKart: https://supertuxkart.net/Translating_STK
+- Minecraft: https://crowdin.com/project/minecraft/eo#
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

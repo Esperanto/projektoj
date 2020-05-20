@@ -19,10 +19,8 @@ Bv. aldonu per *pull request*.
 ## Kodprojektoj
 
 - https://github.com/RobinvanderVliet/Telegramo.org
-- https://github.com/Wilfred/simpla-vortaro
 - https://github.com/fidelisrafael/esperanto-analyzer
 - https://github.com/martinrue/parol-web
-- https://github.com/nordfalk/skrablo-vortaro
 - https://github.com/nordfalk/EsperantoRadio
 - https://github.com/bpeel/Muzaiko
 - https://github.com/LaPingvino/Esperanto-Town-Names
@@ -31,6 +29,18 @@ Bv. aldonu per *pull request*.
 - https://github.com/martinrue/vocx
 - https://github.com/martinrue/ofteco
 
+# Addons:
+
+- https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
+- https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/
+
+### Vortaroj
+
+- https://github.com/Wilfred/simpla-vortaro
+- https://github.com/nordfalk/skrablo-vortaro
+- https://github.com/sstangl/tuja-vortaro
+- https://github.com/bpeel/prevo
+
 ## Neesperantaj projektoj kun esperantaj elementoj
 
 - https://github.com/languagetool-org/languagetool
@@ -38,7 +48,16 @@ Bv. aldonu per *pull request*.
 - https://github.com/umpirsky/language-list
 - https://github.com/umpirsky/currency-list
 - https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
-- https://github.com/duckduckgo/duckduckgo-locales
+
+### Traduktado
+
+- DuckDuckGo: https://github.com/duckduckgo/duckduckgo-locales
+- Mozilla: https://pontoon.mozilla.org/eo/
+- KDE: https://l10n.kde.org/team-infos.php?teamcode=eo
+- Gnome: https://wiki.gnome.org/Esperanto
+- Wordpress: https://translate.wordpress.com/projects/wpcom/eo/default/
+- Drupal: https://www.drupal.org/project/eo
+- Haiku: https://dev.haiku-os.org/wiki/i18n/eo/Info
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 
@@ -48,3 +67,7 @@ Bv. aldonu per *pull request*.
 - https://languagetool.org/eo/
 - https://duckduckgo.com/
 
+## Aliaj Listoj
+
+- Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
+- Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj

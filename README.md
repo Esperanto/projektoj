@@ -59,6 +59,8 @@ Bv. aldonu per *pull request*.
 - Wordpress: https://translate.wordpress.com/projects/wpcom/eo/default/
 - Drupal: https://www.drupal.org/project/eo
 - Haiku: https://dev.haiku-os.org/wiki/i18n/eo/Info
+- GIMP: https://gitlab.gnome.org/GNOME/gimp/blob/master/README.i18n
+- LibreOffice: https://translations.documentfoundation.org/
 
 #### Ludoj
 - SuperTuxKart: https://supertuxkart.net/Translating_STK

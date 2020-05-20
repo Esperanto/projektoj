@@ -61,6 +61,7 @@ Bv. aldonu per *pull request*.
 - Haiku: https://dev.haiku-os.org/wiki/i18n/eo/Info
 - GIMP: https://gitlab.gnome.org/GNOME/gimp/blob/master/README.i18n
 - LibreOffice: https://translations.documentfoundation.org/
+- Mastodon: https://crowdin.com/project/mastodon/eo#
 
 #### Ludoj
 - SuperTuxKart: https://supertuxkart.net/Translating_STK

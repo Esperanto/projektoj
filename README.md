@@ -72,4 +72,3 @@ Bv. aldonu per *pull request*.
 
 - Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
 - Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
-- Ludoj en Esperanto: http://mpovorin.narod.ru/ludoj/ludoj.html

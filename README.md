@@ -4,17 +4,17 @@
 
 Bv. aldonu per *pull request*.
 
-## Esperantaj gupoj kaj Projektoj ĉe GitHub
+## Esperantaj grupoj kaj Projektoj ĉe GitHub
 
-- https://github.com/Esperanto
-- https://github.com/tejoesperanto/
-- https://github.com/eventaservo/
-- https://github.com/DejoEsperanto
-- https://github.com/UEAesperanto
+- https://github.com/Esperanto – malferma, naba organizo ĉe Github
+- https://github.com/tejoesperanto/ tejo.org
+- https://github.com/eventaservo/ - eventaservo.org
+- https://github.com/DejoEsperanto - Dana Esperantista Junulara Organizo
+- https://github.com/UEAesperanto - UEA
 - https://github.com/AksoEo
 - https://github.com/parolrekonado
 - https://github.com/revuloj
-- https://github.com/KomputekoNet
+- https://github.com/KomputekoNet - Komputeko.net
 
 ## Kodprojektoj
 
@@ -29,7 +29,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/martinrue/vocx
 - https://github.com/martinrue/ofteco
 
-### Addons:
+### Kromprogramoj (addons):
 
 - https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
 - https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/

@@ -40,6 +40,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/nordfalk/skrablo-vortaro
 - https://github.com/sstangl/tuja-vortaro
 - https://github.com/bpeel/prevo
+- https://github.com/djuretic/praktika-vortaro
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 

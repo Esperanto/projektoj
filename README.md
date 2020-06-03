@@ -11,9 +11,9 @@ Bv. aldonu per *pull request*.
 - https://github.com/eventaservo/ - eventaservo.org
 - https://github.com/DejoEsperanto - Dana Esperantista Junulara Organizo
 - https://github.com/UEAesperanto - UEA
-- https://github.com/AksoEo
-- https://github.com/parolrekonado
-- https://github.com/revuloj
+- https://github.com/AksoEo - Administra Komuna Sistemo Organiza de TEJO kaj UEA
+- https://github.com/parolrekonado - krei parolrekonadon en Esperanto per la Common Voice projekto de Mozilla
+- https://github.com/revuloj - Reta Vortaro
 - https://github.com/KomputekoNet - Komputeko.net
 
 ## Kodprojektoj

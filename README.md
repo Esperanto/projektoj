@@ -63,6 +63,7 @@ Bv. aldonu per *pull request*.
 - GIMP: https://gitlab.gnome.org/GNOME/gimp/blob/master/README.i18n
 - LibreOffice: https://translations.documentfoundation.org/
 - Mastodon: https://crowdin.com/project/mastodon/eo#
+- Discourse Forumo: https://www.transifex.com/discourse/discourse-org/
 
 #### Ludoj
 - SuperTuxKart: https://supertuxkart.net/Translating_STK

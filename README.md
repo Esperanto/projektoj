@@ -52,6 +52,8 @@ Bv. aldonu per *pull request*.
 
 ### Tradukado
 
+Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net/
+
 - The Translation Project: http://translationproject.org/team/eo.html
 - DuckDuckGo: https://github.com/duckduckgo/duckduckgo-locales
 - Mozilla: https://pontoon.mozilla.org/eo/

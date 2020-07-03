@@ -4,7 +4,7 @@
 
 Bv. aldonu per *pull request*.
 
-## Esperantaj grupoj kaj Projektoj ĉe GitHub
+## Esperantaj grupoj kaj Projektoj ĉe GitHub kaj GitLab
 
 - https://github.com/Esperanto – malferma, naba organizo ĉe Github
 - https://github.com/tejoesperanto/ tejo.org
@@ -15,6 +15,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/parolrekonado - krei parolrekonadon en Esperanto per la Common Voice projekto de Mozilla
 - https://github.com/revuloj - Reta Vortaro
 - https://github.com/KomputekoNet - Komputeko.net
+- https://gitlab.com/germana-esperanto-junularo - Germana Esperanto Junularo (GEJ) ĉe GitLab
 
 ## Kodprojektoj
 
@@ -28,6 +29,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/martinrue/eopl
 - https://github.com/martinrue/vocx
 - https://github.com/martinrue/ofteco
+- https://gitlab.com/C-Bouthoorn/rust-esperanto-parser - Rust Esperanto parser
 
 ### Kromprogramoj (addons):
 

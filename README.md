@@ -88,4 +88,4 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
 - Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
 - Videoludojn ludeblajn en Esperanto: http://stelregilo.com/
-- Alia lsite de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj
+- Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj

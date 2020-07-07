@@ -72,8 +72,8 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 
 ## Ludoj
 - SuperTuxKart: https://supertuxkart.net/Translating_STK
-- Minecraft: https://crowdin.com/project/minecraft/eo#
-  ankau http://esperamondo.net/ (minecraft serviloj en Esperanto)
+- Minecraft: https://crowdin.com/project/minecraft/eo# kaj http://esperamondo.net/ (minecraft serviloj en Esperanto)
+- Fallout 4: https://www.nexusmods.com/fallout4/mods/10742
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 
@@ -88,3 +88,4 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
 - Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
 - Videoludojn ludeblajn en Esperanto: http://stelregilo.com/
+- Alia lsite de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj

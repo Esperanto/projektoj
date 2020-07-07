@@ -70,9 +70,10 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Mastodon: https://crowdin.com/project/mastodon/eo#
 - Discourse Forumo: https://www.transifex.com/discourse/discourse-org/
 
-#### Ludoj
+## Ludoj
 - SuperTuxKart: https://supertuxkart.net/Translating_STK
 - Minecraft: https://crowdin.com/project/minecraft/eo#
+  ankau http://esperamondo.net/ (minecraft serviloj en Esperanto)
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

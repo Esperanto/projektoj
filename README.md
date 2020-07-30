@@ -69,6 +69,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - LibreOffice: https://translations.documentfoundation.org/
 - Mastodon: https://crowdin.com/project/mastodon/eo#
 - Discourse Forumo: https://www.transifex.com/discourse/discourse-org/
+- BigBlueButton https://www.transifex.com/bigbluebutton/public/
 
 ## Ludoj
 - SuperTuxKart: https://supertuxkart.net/Translating_STK

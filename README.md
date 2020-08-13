@@ -16,6 +16,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/revuloj - Reta Vortaro
 - https://github.com/KomputekoNet - Komputeko.net
 - https://gitlab.com/germana-esperanto-junularo - Germana Esperanto Junularo (GEJ) ĉe GitLab
+- https://github.com/nova-reta-vortaro - Nova Reta Vortaro 
 
 ## Kodprojektoj
 
@@ -43,6 +44,8 @@ Bv. aldonu per *pull request*.
 - https://github.com/sstangl/tuja-vortaro
 - https://github.com/bpeel/prevo
 - https://github.com/djuretic/praktika-vortaro
+- https://github.com/nova-reta-vortaro - Nova Reta Vortaro 
+
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 

@@ -31,6 +31,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/martinrue/vocx
 - https://github.com/martinrue/ofteco
 - https://gitlab.com/C-Bouthoorn/rust-esperanto-parser - Rust Esperanto parser
+- https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 
 
 ### Kromprogramoj (addons):
 

@@ -81,6 +81,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Fallout 4: https://www.nexusmods.com/fallout4/mods/10742
 - Pokemon: https://github.com/waicalibre/pokered-eo
 - OpenRCT2: https://openrct2.org/ & https://github.com/OpenRCT2/Localisation
+- Polytopia: https://github.com/perfidulo/polytopia-eo
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

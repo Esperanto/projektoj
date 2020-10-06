@@ -82,6 +82,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Pokemon: https://github.com/waicalibre/pokered-eo
 - OpenRCT2: https://openrct2.org/ & https://github.com/OpenRCT2/Localisation
 - Polytopia: https://github.com/perfidulo/polytopia-eo
+- ZDoom:https://zdoom.org/
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

@@ -83,6 +83,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - OpenRCT2: https://openrct2.org/ & https://github.com/OpenRCT2/Localisation
 - Polytopia: https://github.com/perfidulo/polytopia-eo
 - ZDoom:https://zdoom.org/
+- Geoguessr Esperantujo mapo: https://www.geoguessr.com/maps/5f89a5e8f018c00001c2247a
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

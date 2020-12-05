@@ -76,13 +76,20 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - BigBlueButton https://www.transifex.com/bigbluebutton/public/
 
 ## Ludoj
+- Minecraft: https://crowdin.com/project/minecraft/eo# 
+  - minecraft-serviloj en Esperanto: http://esperamondo.net/
+- Slay the Spire: oficiala retejo ĉe https://www.megacrit.com/
+  - kunlabori pri traduko: https://discord.gg/slaythespire
+- Tooth & Tail: oficiala retejo ĉe http://www.toothandtailgame.com/
+  - anonco pri E-traduko: https://www.reddit.com/r/Esperanto/comments/k3xme2/nova_videoludo_tradukita_al_esperanto/
+- Keep Talking and Nobody Explodes: https://keeptalkinggame.com/translation-faq/
+- Spelunky: https://github.com/Rajzin/Spelunky-Esperanto-traduko
 - SuperTuxKart: https://supertuxkart.net/Translating_STK
-- Minecraft: https://crowdin.com/project/minecraft/eo# kaj http://esperamondo.net/ (minecraft serviloj en Esperanto)
-- Fallout 4: https://www.nexusmods.com/fallout4/mods/10742
 - Pokemon: https://github.com/waicalibre/pokered-eo
 - OpenRCT2: https://openrct2.org/ & https://github.com/OpenRCT2/Localisation
 - Polytopia: https://github.com/perfidulo/polytopia-eo
 - ZDoom:https://zdoom.org/
+- Fallout 4 (interfaco): https://www.nexusmods.com/fallout4/mods/10742
 - Geoguessr Esperantujo mapo: https://www.geoguessr.com/maps/5f89a5e8f018c00001c2247a
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto

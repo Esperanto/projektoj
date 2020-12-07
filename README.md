@@ -91,6 +91,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - ZDoom:https://zdoom.org/
 - Fallout 4 (interfaco): https://www.nexusmods.com/fallout4/mods/10742
 - Geoguessr Esperantujo mapo: https://www.geoguessr.com/maps/5f89a5e8f018c00001c2247a
+- Drilling Billy: https://www.drillingbilly.com/download (teksto kaj sono en Esperanto)
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

@@ -76,6 +76,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - BigBlueButton https://www.transifex.com/bigbluebutton/public/
 
 ## Ludoj
+- Hotel Duolingo by RichardDelamore (evildea) https://richarddelamore.itch.io/hotel-duolingo
 - Minecraft: https://crowdin.com/project/minecraft/eo# 
   - minecraft-serviloj en Esperanto: http://esperamondo.net/
 - Slay the Spire: oficiala retejo ĉe https://www.megacrit.com/

@@ -95,6 +95,11 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Drilling Billy: https://www.drillingbilly.com/download (teksto kaj sono en Esperanto)
 - Townscaper: https://store.steampowered.com/app/1291340/Townscaper/
 
+### Listoj de Ludoj
+- Videoludojn ludeblajn en Esperanto: http://stelregilo.com/
+- Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj
+- Ludoj en Esperanto ĉe Steam: https://store.steampowered.com/curator/38919824/
+
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 
 - https://www.facebook.com
@@ -107,5 +112,3 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 
 - Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
 - Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
-- Videoludojn ludeblajn en Esperanto: http://stelregilo.com/
-- Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj

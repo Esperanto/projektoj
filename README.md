@@ -32,6 +32,8 @@ Bv. aldonu per *pull request*.
 - https://github.com/martinrue/ofteco
 - https://gitlab.com/C-Bouthoorn/rust-esperanto-parser - Rust Esperanto parser
 - https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 
+- https://github.com/MJWootton/Pinjinilo - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo
+- https://github.com/MJWootton/ProverbaroMontrilo - Promgrameto por Montri Hazardan Lineon el la Proverbaro
 
 ### Kromprogramoj (addons):
 

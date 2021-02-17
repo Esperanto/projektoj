@@ -99,7 +99,6 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - 1255 Burogmaster: https://github.com/Areso/1255-burgomaster
 
 ### Listoj de Ludoj
-- Videoludojn ludeblajn en Esperanto: http://stelregilo.com/
 - Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj
 - Ludoj en Esperanto ĉe Steam: https://store.steampowered.com/curator/38919824/
 

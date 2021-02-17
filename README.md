@@ -96,7 +96,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Geoguessr Esperantujo mapo: https://www.geoguessr.com/maps/5f89a5e8f018c00001c2247a
 - Drilling Billy: https://www.drillingbilly.com/download (teksto kaj sono en Esperanto)
 - Townscaper: https://store.steampowered.com/app/1291340/Townscaper/
-- 1255 Burogmaster: https://github.com/Areso/1255-burgomaster
+- 1255 Burgomaster: https://github.com/Areso/1255-burgomaster
 
 ### Listoj de Ludoj
 - Videoludojn ludeblajn en Esperanto: http://stelregilo.com/

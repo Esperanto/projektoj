@@ -114,3 +114,4 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 
 - Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
 - Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
+- Listo de Esperantigataj programoj kaj retejoj ĉe komputeko.net https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj

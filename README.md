@@ -48,6 +48,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/bpeel/prevo
 - https://github.com/djuretic/praktika-vortaro
 - https://github.com/nova-reta-vortaro - Nova Reta Vortaro 
+- https://github.com/paulmakepeace/vortlisto - maŝinlegebla listo de bazaj vortoj en Esperanto kaj la anglam
 
 
 ## Neesperantaj projektoj kun esperantaj elementoj

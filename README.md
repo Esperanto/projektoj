@@ -29,6 +29,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/qubist/esperanto-phrase
 - https://github.com/martinrue/eopl
 - https://github.com/martinrue/vocx
+  Transkribas esperantajn leterojn el la pola skribsitemon uzeblaj en pola maŝinaj voĉoj.
 - https://github.com/martinrue/ofteco
 - https://gitlab.com/C-Bouthoorn/rust-esperanto-parser - Rust Esperanto parser
 - https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 

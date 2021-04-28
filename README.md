@@ -35,7 +35,7 @@ Bv. aldonu per *pull request*.
 - https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 
 - https://github.com/MJWootton/Pinjinilo - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo
 - https://github.com/MJWootton/ProverbaroMontrilo - Promgrameto por Montri Hazardan Lineon el la Proverbaro
-- https://github.com/tejoesperanto/pasportaservo https://www.pasportaservo.org/
+- https://github.com/tejoesperanto/pasportaservo Reta Pasporta Servo (https://www.pasportaservo.org/)
 ### Kromprogramoj (addons):
 
 - https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer

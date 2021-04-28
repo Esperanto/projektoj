@@ -20,7 +20,7 @@ Bv. aldonu per *pull request*.
 
 ## Kodprojektoj
 
-- https://github.com/RobinvanderVliet/Telegramo.org
+- https://github.com/RobinvanderVliet/Telegramo.org Listo de esperantaj telegramaj grupoj https://telegramo.org/
 - https://github.com/fidelisrafael/esperanto-analyzer
 - https://github.com/martinrue/parol-web
 - https://github.com/nordfalk/EsperantoRadio
@@ -35,7 +35,7 @@ Bv. aldonu per *pull request*.
 - https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 
 - https://github.com/MJWootton/Pinjinilo - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo
 - https://github.com/MJWootton/ProverbaroMontrilo - Promgrameto por Montri Hazardan Lineon el la Proverbaro
-
+- https://github.com/tejoesperanto/pasportaservo https://www.pasportaservo.org/
 ### Kromprogramoj (addons):
 
 - https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer

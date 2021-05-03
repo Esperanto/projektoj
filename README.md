@@ -51,6 +51,15 @@ Bv. aldonu per *pull request*.
 - https://github.com/nova-reta-vortaro - Nova Reta Vortaro 
 - https://github.com/paulmakepeace/vortlisto - maŝinlegebla listo de bazaj vortoj en Esperanto kaj la anglam
 
+### Klavaroj
+- Tajpi (windows) http://www.zz9pza.net/tajpi/en/
+- Gboard (Android) ekde Android 4.4
+- https://github.com/unikanomo/esperanta-klavaro
+- https://github.com/slava-sh/klavaro (iOS)
+- https://github.com/vim-scripts/esperanto (Vim)
+- https://github.com/paulbarre/vscode-klavaro  VScode
+- https://github.com/unikanomo/esperanta-klavaro
+
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 

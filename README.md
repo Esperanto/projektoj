@@ -51,6 +51,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/nova-reta-vortaro - Nova Reta Vortaro 
 - https://github.com/paulmakepeace/vortlisto - maŝinlegebla listo de bazaj vortoj en Esperanto kaj la anglan
 - https://github.com/djuretic/revo-en-kindle - vortaro por Kindle bitlibroj
+  https://github.com/coljac/kindle_eo_eng - alia vortaro por Kindle
 
 ### Klavaroj
 - Tajpi (windows) http://www.zz9pza.net/tajpi/en/

@@ -36,10 +36,12 @@ Bv. aldonu per *pull request*.
 - https://github.com/MJWootton/Pinjinilo - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo
 - https://github.com/MJWootton/ProverbaroMontrilo - Promgrameto por Montri Hazardan Lineon el la Proverbaro
 - https://github.com/tejoesperanto/pasportaservo Reta Pasporta Servo (https://www.pasportaservo.org/)
+
 ### Kromprogramoj (addons):
 
-- https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
-- https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/
+- https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer - Libreoffice
+- https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/ - language pack por Firefox
+- https://addons.mozilla.org/en-US/firefox/addon/plena-vortaro/ - PIV por Firefox
 
 ### Vortaroj
 

@@ -63,6 +63,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/vim-scripts/esperanto (Vim)
 - https://github.com/paulbarre/vscode-klavaro  VScode
 - https://github.com/unikanomo/esperanta-klavaro
+- https://github.com/jakubfabijan/Esperanta-Dvorako Esperanta Dvorako por Linukso
 
 
 ## Neesperantaj projektoj kun esperantaj elementoj

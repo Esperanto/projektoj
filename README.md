@@ -12,7 +12,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/DejoEsperanto - Dana Esperantista Junulara Organizo
 - https://github.com/UEAesperanto - UEA
 - https://github.com/AksoEo - Administra Komuna Sistemo Organiza de TEJO kaj UEA
-- https://github.com/parolrekonado - krei parolrekonadon en Esperanto per la Common Voice projekto de Mozilla
+- https://github.com/parolteknologio - krei parolrekonilon en Esperanto per la Common Voice projekto de Mozilla
 - https://github.com/revuloj - Reta Vortaro
 - https://github.com/KomputekoNet - Komputeko.net
 - https://gitlab.com/germana-esperanto-junularo - Germana Esperanto Junularo (GEJ) ĉe GitLab

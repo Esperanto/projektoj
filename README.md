@@ -20,6 +20,7 @@ Bv. aldonu per *pull request*.
 
 ## Kodprojektoj
 
+- https://github.com/parolteknologio/stt-esperanto Parolrekonilo en Esperanto (STT = speech to text)
 - https://github.com/RobinvanderVliet/Telegramo.org Listo de esperantaj telegramaj grupoj https://telegramo.org/
 - https://github.com/fidelisrafael/esperanto-analyzer
 - https://github.com/martinrue/parol-web

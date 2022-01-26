@@ -58,6 +58,7 @@ Bv. aldonu per *pull request*.
 
 ### Klavaroj
 - Tajpi (windows) http://www.zz9pza.net/tajpi/en/
+- https://github.com/PumpedSardines/Tajpi (Mac)
 - Gboard (Android) ekde Android 4.4
 - https://github.com/unikanomo/esperanta-klavaro
 - https://github.com/slava-sh/klavaro (iOS)
@@ -65,7 +66,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/paulbarre/vscode-klavaro  VScode
 - https://github.com/unikanomo/esperanta-klavaro
 - https://github.com/jakubfabijan/Esperanta-Dvorako Esperanta Dvorako por Linukso
-- https://github.com/PumpedSardines/Tajpi (Mac)
+
 
 
 ## Neesperantaj projektoj kun esperantaj elementoj

@@ -65,6 +65,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/paulbarre/vscode-klavaro  VScode
 - https://github.com/unikanomo/esperanta-klavaro
 - https://github.com/jakubfabijan/Esperanta-Dvorako Esperanta Dvorako por Linukso
+- https://github.com/PumpedSardines/Tajpi (Mac)
 
 
 ## Neesperantaj projektoj kun esperantaj elementoj

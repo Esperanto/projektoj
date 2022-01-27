@@ -118,6 +118,8 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - Drilling Billy: https://www.drillingbilly.com/download (teksto kaj sono en Esperanto)
 - Townscaper: https://store.steampowered.com/app/1291340/Townscaper/
 - 1255 Burgomaster: https://github.com/Areso/1255-burgomaster
+- A Boy and His Blob: Trouble on Blobolonia https://www.romhacking.net/translations/6424/
+- Age of Empires 1 audio mod: https://github.com/esperanto-rts/AoE1-eo-mod
 
 ### Listoj de Ludoj
 - Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj

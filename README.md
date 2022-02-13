@@ -129,6 +129,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 
 - https://www.facebook.com
 - https://eo.wikipedia.org/
+- https://eo.wiktionary.org/
 - https://voice.mozilla.org/eo
 - https://languagetool.org/eo/
 - https://duckduckgo.com/

@@ -128,8 +128,8 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 
 - https://www.facebook.com
-- https://eo.wikipedia.org/
-- https://eo.wiktionary.org/
+- Vikipedio: https://eo.wikipedia.org/
+- Vikivortaro: https://eo.wiktionary.org/
 - https://voice.mozilla.org/eo
 - https://languagetool.org/eo/
 - https://duckduckgo.com/

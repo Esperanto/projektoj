@@ -78,6 +78,7 @@ Bv. aldonu per *pull request*.
 - https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - https://wordofthehour.org/ -vorto de la horo 
 - https://alphacephei.com/vosk/models Vosk parolreknolilo en Espernato
+- https://github.com/RHVoice/RHVoice esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS)
 
 ### Tradukado
 

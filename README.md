@@ -126,6 +126,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 ### Listoj de Ludoj
 - Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj
 - Ludoj en Esperanto ĉe Steam: https://store.steampowered.com/curator/38919824/
+- Listo de tradukprojektoj: https://zizeloj.org/tradukoj/
 
 ## (Gravaj) Retejoj tradukitaj al Esperanto
 

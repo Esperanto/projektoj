@@ -102,7 +102,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 ## Ludoj
 - Hotel Duolingo by Richard Delamore (evildea) https://richarddelamore.itch.io/hotel-duolingo
 - Minecraft: https://crowdin.com/project/minecraft/eo# 
-  - minecraft-serviloj en Esperanto: http://esperamondo.net/
+  - minecraft-serviloj en Esperanto: http://espera-mondo.net/
 - Slay the Spire: oficiala retejo ĉe https://www.megacrit.com/
   - kunlabori pri traduko: https://discord.gg/slaythespire
 - Tooth & Tail: oficiala retejo ĉe http://www.toothandtailgame.com/

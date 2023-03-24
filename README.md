@@ -20,66 +20,66 @@ Bv. aldonu per *pull request*.
 
 ## Kodprojektoj
 
-- https://github.com/parolteknologio/stt-esperanto Parolrekonilo en Esperanto (STT = speech to text)
-- https://github.com/RobinvanderVliet/Telegramo.org Listo de esperantaj telegramaj grupoj https://telegramo.org/
-- https://github.com/fidelisrafael/esperanto-analyzer
-- https://github.com/martinrue/parol-web
-- https://github.com/nordfalk/EsperantoRadio
-- https://github.com/bpeel/Muzaiko
-- https://github.com/LaPingvino/Esperanto-Town-Names
-- https://github.com/qubist/esperanto-phrase
-- https://github.com/martinrue/eopl
+- Listo de esperantaj telegramaj grupoj https://telegramo.org/ https://github.com/RobinvanderVliet/Telegramo.org 
+- esperanto-analyzer https://github.com/fidelisrafael/esperanto-analyzer
+- Parol-web - TTS en Esperanto: https://github.com/martinrue/parol-web
+- EsperantoRadio https://github.com/nordfalk/EsperantoRadio
+- Muzaiko https://github.com/bpeel/Muzaiko
+- esperanto-phrase https://github.com/qubist/esperanto-phrase
+- eopl https://github.com/martinrue/eopl
 - https://github.com/martinrue/vocx
   Transkribas esperantajn leterojn el la pola skribsitemon uzeblaj en pola maŝinaj voĉoj. Bazo de https://parol.martinrue.com/
-- https://github.com/martinrue/ofteco
-- https://gitlab.com/C-Bouthoorn/rust-esperanto-parser - Rust Esperanto parser
-- https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 
-- https://github.com/MJWootton/Pinjinilo - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo
-- https://github.com/MJWootton/ProverbaroMontrilo - Promgrameto por Montri Hazardan Lineon el la Proverbaro
-- https://github.com/tejoesperanto/pasportaservo Reta Pasporta Servo (https://www.pasportaservo.org/)
+- ofteco https://github.com/martinrue/ofteco
+- Rust Esperanto parser https://gitlab.com/C-Bouthoorn/rust-esperanto-parser
+- randomly-generated-esperanto-things  https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 
+- Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo https://github.com/MJWootton/Pinjinilo
+- Promgrameto por Montri Hazardan Lineon el la Proverbaro https://github.com/MJWootton/ProverbaroMontrilo 
+- Reta Pasporta Servo (https://www.pasportaservo.org/) https://github.com/tejoesperanto/pasportaservo 
 - Esperanta Chatbot: https://github.com/Sirbananathe6th/esperanto-chatbot
 
 ### Kromprogramoj (addons):
 
-- https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer - Libreoffice
-- https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/ - language pack por Firefox
-- https://addons.mozilla.org/en-US/firefox/addon/plena-vortaro/ - PIV por Firefox
+- Libreoffice https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
+- language pack por Firefox https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/
+- PIV por Firefox https://addons.mozilla.org/en-US/firefox/addon/plena-vortaro/ 
 
 ### Vortaroj
 
-- https://github.com/Wilfred/simpla-vortaro
-- https://github.com/nordfalk/skrablo-vortaro
-- https://github.com/sstangl/tuja-vortaro
-- https://github.com/bpeel/prevo
-- https://github.com/djuretic/praktika-vortaro
-- https://github.com/nova-reta-vortaro - Nova Reta Vortaro 
-- https://github.com/paulmakepeace/vortlisto - maŝinlegebla listo de bazaj vortoj en Esperanto kaj la anglan
-- https://github.com/djuretic/revo-en-kindle - vortaro por Kindle bitlibroj
-- https://github.com/coljac/kindle_eo_eng - vortaro por Kindle bitlibroj
+- simpla-vortaro https://github.com/Wilfred/simpla-vortaro
+- skrablo-vortaro https://github.com/nordfalk/skrablo-vortaro
+- tuja-vortaro https://github.com/sstangl/tuja-vortaro
+- prevo https://github.com/bpeel/prevo
+- praktika-vortaro https://github.com/djuretic/praktika-vortaro
+- Nova Reta Vortaro https://github.com/nova-reta-vortaro
+- maŝinlegebla listo de bazaj vortoj en Esperanto kaj la anglan https://github.com/paulmakepeace/vortlisto
+- vortaro por Kindle bitlibroj https://github.com/djuretic/revo-en-kindle
+- vortaro por Kindle bitlibroj https://github.com/coljac/kindle_eo_eng
 
 ### Klavaroj
 - Tajpi (windows) http://www.zz9pza.net/tajpi/en/
 - https://github.com/PumpedSardines/Tajpi (Mac)
 - Gboard (Android) ekde Android 4.4
-- https://github.com/unikanomo/esperanta-klavaro
-- https://github.com/slava-sh/klavaro (iOS)
-- https://github.com/vim-scripts/esperanto (Vim)
-- https://github.com/paulbarre/vscode-klavaro  VScode
-- https://github.com/unikanomo/esperanta-klavaro
-- https://github.com/jakubfabijan/Esperanta-Dvorako Esperanta Dvorako por Linukso
+- esperanta-klavaro: https://github.com/unikanomo/esperanta-klavaro
+- lava-sh/klavaro (iOS): https://github.com/slava-sh/klavaro (iOS)
+- esperanto (Vim): https://github.com/vim-scripts/esperanto (Vim)
+- vscode-klavaro https://github.com/paulbarre/vscode-klavaro 
+- esperanta-klavaro https://github.com/unikanomo/esperanta-klavaro
+- Esperanta Dvorako por Linukso https://github.com/jakubfabijan/Esperanta-Dvorako
 
 
 
 ## Neesperantaj projektoj kun esperantaj elementoj
+- Languagetool korektilo https://github.com/languagetool-org/languagetool
+- Vorto de la horo https://wordofthehour.org/ 
+- Vosk STT parolreknolilo en Espernato https://alphacephei.com/vosk/models
+- RHVoice, esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS) https://github.com/RHVoice/RHVoice 
 
-- https://github.com/languagetool-org/languagetool
+Vortlistoj:
+- Listo de aĉaj vortoj https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - https://github.com/umpirsky/country-list
 - https://github.com/umpirsky/language-list
 - https://github.com/umpirsky/currency-list
-- https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
-- https://wordofthehour.org/ -vorto de la horo 
-- https://alphacephei.com/vosk/models Vosk parolreknolilo en Espernato
-- https://github.com/RHVoice/RHVoice esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS)
+- https://github.com/LaPingvino/Esperanto-Town-Names
 
 ### Tradukado
 

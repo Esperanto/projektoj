@@ -138,8 +138,17 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - https://languagetool.org/eo/
 - https://duckduckgo.com/
 
+## Datumaroj por maŝina lernado en Esperanto / Datasets for machine learning in Esperanto
+* Common Voice de Mozilla estas grandega datumaro de homaj voĉoj por maŝina lernado: https://commonvoice.mozilla.org/eo
+* Tatoeba estas datumaro kun frazoj en multaj lingvoj: https://tatoeba.org
+* Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
+* OSCAR or Open Super-large Crawled ALMAnaCH coRpus: https://oscar-project.org/ 
+* Lingualibre: https://lingualibre.org/
+
+
 ## Aliaj Listoj
 
 - Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
 - Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
 - Listo de Esperantigataj programoj kaj retejoj ĉe komputeko.net https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj
+- Listo de parolteknologio en Esperanto: https://parolteknologio.github.io/

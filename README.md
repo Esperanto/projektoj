@@ -144,8 +144,14 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 * Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
 * OSCAR or Open Super-large Crawled ALMAnaCH coRpus: https://oscar-project.org/ 
 * Lingualibre: https://lingualibre.org/
-* Open Subtitles https://opus.nlpl.eu/OpenSubtitles2018.php
 
+### Open Parallel Corpus
+Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
+Ekzemple:
+* Open Subtitles https://opus.nlpl.eu/OpenSubtitles2018.php
+* GNOME: https://opus.nlpl.eu/GNOME.php
+* Tatoeba: https://opus.nlpl.eu/Tatoeba.php
+* Global Voices: https://opus.nlpl.eu/GlobalVoices.php
 
 ## Aliaj Listoj
 

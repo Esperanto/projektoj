@@ -42,7 +42,6 @@ Bv. aldonu per *pull request*.
 
 - Libreoffice https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
 - language pack por Firefox https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/
-- PIV por Firefox https://addons.mozilla.org/en-US/firefox/addon/plena-vortaro/ 
 
 ### Vortaroj
 

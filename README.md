@@ -148,7 +148,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 * CC-100: Monolingual Datasets from Web Crawl Data https://data.statmt.org/cc-100/
 * Datumaro por babilaj asistantoj: https://open-assistant.io/eo
 
-**huggingface**
+**Hugging Face**
 * Esperantaj Modeloj: https://huggingface.co/models?language=eo&sort=downloads
 * Esperantaj Dataumaroj: https://huggingface.co/datasets?language=language:eo
 

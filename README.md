@@ -140,7 +140,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - https://duckduckgo.com/
 
 ## Datumaroj por maŝina lernado en Esperanto / Datasets for machine learning in Esperanto
-* Common Voice de Mozilla estas grandega datumaro de homaj voĉoj por maŝina lernado: https://commonvoice.mozilla.org/eo
+* Common Voice de Mozilla estas grandega datumaro de homaj voĉoj por maŝina lernado: https://commonvoice.mozilla.org/eo/datasets
 * Tatoeba estas datumaro kun frazoj en multaj lingvoj: https://tatoeba.org
 * Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
 * OSCAR or Open Super-large Crawled ALMAnaCH coRpus: https://oscar-project.org/ 
@@ -153,6 +153,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 * Esperantaj Dataumaroj: https://huggingface.co/datasets?language=language:eo
 
 **Open Parallel Corpus**
+
 Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
 Ekzemple:
 * Open Subtitles https://opus.nlpl.eu/OpenSubtitles2018.php

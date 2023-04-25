@@ -148,7 +148,11 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 * CC-100: Monolingual Datasets from Web Crawl Data https://data.statmt.org/cc-100/
 * Datumaro por babilaj asistantoj: https://open-assistant.io/eo
 
-### Open Parallel Corpus
+**huggingface**
+* Esperantaj Modeloj: https://huggingface.co/models?language=eo&sort=downloads
+* Esperantaj Dataumaroj: https://huggingface.co/datasets?language=language:eo
+
+**Open Parallel Corpus**
 Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
 Ekzemple:
 * Open Subtitles https://opus.nlpl.eu/OpenSubtitles2018.php

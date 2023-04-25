@@ -149,6 +149,8 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 * Datumaro por babilaj asistantoj: https://open-assistant.io/eo
 
 **Hugging Face**
+
+Estas platformo kiu permesas al uzantoj publikigi maŝinlernajn modelojn kaj datumarojn.
 * Esperantaj Modeloj: https://huggingface.co/models?language=eo&sort=downloads
 * Esperantaj Dataumaroj: https://huggingface.co/datasets?language=language:eo
 

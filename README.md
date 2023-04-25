@@ -148,7 +148,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 * CC-100: Monolingual Datasets from Web Crawl Data https://data.statmt.org/cc-100/
 * Datumaro por babilaj asistantoj: https://open-assistant.io/eo
 
-**Hugging Face**
+**🤗 Hugging Face**
 
 Hugging Face estas platformo kiu permesas al uzantoj publikigi maŝinlernajn modelojn kaj datumarojn.
 * Esperantaj Modeloj: https://huggingface.co/models?language=eo&sort=downloads

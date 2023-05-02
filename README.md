@@ -70,6 +70,7 @@ Bv. aldonu per *pull request*.
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 - Languagetool korektilo https://github.com/languagetool-org/languagetool
+- Libretranslate: https://eo.libretranslate.com / https://github.com/LibreTranslate/LibreTranslate
 - Vorto de la horo https://wordofthehour.org/ 
 - Vosk STT parolreknolilo en Espernato https://alphacephei.com/vosk/models
 - RHVoice, esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS) https://github.com/RHVoice/RHVoice 

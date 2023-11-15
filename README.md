@@ -56,7 +56,7 @@ Bv. aldonu per *pull request*.
 - vortaro por Kindle bitlibroj https://github.com/coljac/kindle_eo_eng
 
 ### Klavaroj
-- Tajpi (windows) http://www.zz9pza.net/tajpi/en/
+- Tajpi (windows) https://pliejo.komputeko.net/tajpi-esperanta-klavarilo-por-vindozo
 - https://github.com/PumpedSardines/Tajpi (Mac)
 - Gboard (Android) ekde Android 4.4
 - esperanta-klavaro: https://github.com/unikanomo/esperanta-klavaro

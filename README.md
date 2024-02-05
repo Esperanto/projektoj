@@ -146,7 +146,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 * OSCAR or Open Super-large Crawled ALMAnaCH coRpus: https://oscar-project.org/ 
 * Lingualibre: https://lingualibre.org/
 * CC-100: Monolingual Datasets from Web Crawl Data https://data.statmt.org/cc-100/
-* Datumaro por babilaj asistantoj: https://open-assistant.io/eo
+* [Open Assistant Conversations Dataset Release 2 (OASST2)](https://huggingface.co/datasets/OpenAssistant/oasst2) - Dialogoj en Esperanto
 
 **🤗 Hugging Face**
 

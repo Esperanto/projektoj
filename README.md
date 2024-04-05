@@ -54,6 +54,7 @@ Bv. aldonu per *pull request*.
 - maŝinlegebla listo de bazaj vortoj en Esperanto kaj la anglan https://github.com/paulmakepeace/vortlisto
 - vortaro por Kindle bitlibroj https://github.com/djuretic/revo-en-kindle
 - vortaro por Kindle bitlibroj https://github.com/coljac/kindle_eo_eng
+- vortaroj por Kobo bitlibroj https://github.com/lowtze/esperantaj-libroj/tree/main/Vortaroj
 
 ### Klavaroj
 - Tajpi (windows) https://pliejo.komputeko.net/tajpi-esperanta-klavarilo-por-vindozo

@@ -58,6 +58,7 @@ Bv. aldonu per *pull request*.
 
 ### Klavaroj
 - Tajpi (windows) https://pliejo.komputeko.net/tajpi-esperanta-klavarilo-por-vindozo
+- Esperanta Klavaro (macOS) https://github.com/nhershy/EsperantaKlavaroMacOS
 - https://github.com/PumpedSardines/Tajpi (Mac)
 - Gboard (Android) ekde Android 4.4
 - esperanta-klavaro: https://github.com/unikanomo/esperanta-klavaro

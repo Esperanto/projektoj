@@ -42,6 +42,7 @@ Bv. aldonu per *pull request*.
 
 - Libreoffice https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
 - language pack por Firefox https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/
+- EsperantoSpellcheckMacOS https://github.com/nhershy/EsperantoSpellcheckMacOS/ 
 
 ### Vortaroj
 
@@ -66,8 +67,6 @@ Bv. aldonu per *pull request*.
 - vscode-klavaro https://github.com/paulbarre/vscode-klavaro 
 - esperanta-klavaro https://github.com/unikanomo/esperanta-klavaro
 - Esperanta Dvorako por Linukso https://github.com/jakubfabijan/Esperanta-Dvorako
-
-
 
 ## Neesperantaj projektoj kun esperantaj elementoj
 - Languagetool korektilo https://github.com/languagetool-org/languagetool

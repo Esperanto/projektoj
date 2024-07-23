@@ -37,6 +37,7 @@ Bv. aldonu per *pull request*.
 - Reta Pasporta Servo (https://www.pasportaservo.org/) https://github.com/tejoesperanto/pasportaservo 
 - Esperanta Chatbot: https://github.com/Sirbananathe6th/esperanto-chatbot
 - Smart esperanto word parser and dictionary: https://github.com/rieselhilfe/parseo, web tool: parseo.online
+- vikivojaĝa mapo (Kubo) https://github.com/javiramoslab/Wikivoyage-Cuba-map mapo de Kubo kun info en Esperanto el Vikivojaĝo
 
 ### Kromprogramoj (addons):
 

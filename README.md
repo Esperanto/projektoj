@@ -2,7 +2,7 @@
 
 (kiu ne estas sub https://github.com/Esperanto/ )
 
-Bv. aldonu per *pull request*.
+Bv. aldonu per _pull request_.
 
 ## Esperantaj grupoj kaj Projektoj ĉe GitHub kaj GitLab
 
@@ -16,11 +16,11 @@ Bv. aldonu per *pull request*.
 - https://github.com/revuloj - Reta Vortaro
 - https://github.com/KomputekoNet - Komputeko.net
 - https://gitlab.com/germana-esperanto-junularo - Germana Esperanto Junularo (GEJ) ĉe GitLab
-- https://github.com/nova-reta-vortaro - Nova Reta Vortaro 
+- https://github.com/nova-reta-vortaro - Nova Reta Vortaro
 
 ## Kodprojektoj
 
-- Listo de esperantaj telegramaj grupoj https://telegramo.org/ https://github.com/RobinvanderVliet/Telegramo.org 
+- Listo de esperantaj telegramaj grupoj https://telegramo.org/ https://github.com/RobinvanderVliet/Telegramo.org
 - esperanto-analyzer https://github.com/fidelisrafael/esperanto-analyzer
 - Parol-web - TTS en Esperanto: https://github.com/martinrue/parol-web
 - EsperantoRadio https://github.com/nordfalk/EsperantoRadio
@@ -31,19 +31,20 @@ Bv. aldonu per *pull request*.
   Transkribas esperantajn leterojn el la pola skribsitemon uzeblaj en pola maŝinaj voĉoj. Bazo de https://parol.martinrue.com/
 - ofteco https://github.com/martinrue/ofteco
 - Rust Esperanto parser https://gitlab.com/C-Bouthoorn/rust-esperanto-parser
-- randomly-generated-esperanto-things  https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things 
+- randomly-generated-esperanto-things https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things
 - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo https://github.com/MJWootton/Pinjinilo
-- Promgrameto por Montri Hazardan Lineon el la Proverbaro https://github.com/MJWootton/ProverbaroMontrilo 
-- Reta Pasporta Servo (https://www.pasportaservo.org/) https://github.com/tejoesperanto/pasportaservo 
+- Promgrameto por Montri Hazardan Lineon el la Proverbaro https://github.com/MJWootton/ProverbaroMontrilo
+- Reta Pasporta Servo (https://www.pasportaservo.org/) https://github.com/tejoesperanto/pasportaservo
 - Esperanta Chatbot: https://github.com/Sirbananathe6th/esperanto-chatbot
 - Smart esperanto word parser and dictionary: https://github.com/rieselhilfe/parseo, web tool: parseo.online
-- vikivojaĝa mapo (Kubo) https://github.com/javiramoslab/Wikivoyage-Cuba-map mapo de Kubo kun info en Esperanto el Vikivojaĝo
+- Vikivojaĝa interaga mapo (Kubo) https://github.com/javiramoslab/Wikivoyage-Cuba-map mapo de Kubo kun info en Esperanto el Vikivojaĝo ([demo](https://JaviRamosLab.github.io/Wikivoyage-Cuba-map))
+- Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj) https://github.com/JaviRamosLab/Esperantists-nask-by-day ([demo](https://JaviRamosLab.github.io/Esperantists-nask-by-day))
 
 ### Kromprogramoj (addons):
 
 - Libreoffice https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer
 - language pack por Firefox https://addons.mozilla.org/en-US/firefox/addon/esperanto-language-pack/
-- EsperantoSpellcheckMacOS https://github.com/nhershy/EsperantoSpellcheckMacOS/ 
+- EsperantoSpellcheckMacOS https://github.com/nhershy/EsperantoSpellcheckMacOS/
 
 ### Vortaroj
 
@@ -59,24 +60,27 @@ Bv. aldonu per *pull request*.
 - vortaroj por Kobo bitlibroj https://github.com/lowtze/esperantaj-libroj/tree/main/Vortaroj
 
 ### Klavaroj
+
 - Tajpi (windows) https://pliejo.komputeko.net/tajpi-esperanta-klavarilo-por-vindozo
 - https://github.com/PumpedSardines/Tajpi (Mac)
 - Gboard (Android) ekde Android 4.4
 - esperanta-klavaro: https://github.com/unikanomo/esperanta-klavaro
 - lava-sh/klavaro (iOS): https://github.com/slava-sh/klavaro (iOS)
 - esperanto (Vim): https://github.com/vim-scripts/esperanto (Vim)
-- vscode-klavaro https://github.com/paulbarre/vscode-klavaro 
+- vscode-klavaro https://github.com/paulbarre/vscode-klavaro
 - esperanta-klavaro https://github.com/unikanomo/esperanta-klavaro
 - Esperanta Dvorako por Linukso https://github.com/jakubfabijan/Esperanta-Dvorako
 
 ## Neesperantaj projektoj kun esperantaj elementoj
+
 - Languagetool korektilo https://github.com/languagetool-org/languagetool
 - Libretranslate: https://eo.libretranslate.com / https://github.com/LibreTranslate/LibreTranslate
-- Vorto de la horo https://wordofthehour.org/ 
+- Vorto de la horo https://wordofthehour.org/
 - Vosk STT parolreknolilo en Espernato https://alphacephei.com/vosk/models
-- RHVoice, esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS) https://github.com/RHVoice/RHVoice 
+- RHVoice, esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS) https://github.com/RHVoice/RHVoice
 
 Vortlistoj:
+
 - Listo de aĉaj vortoj https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - https://github.com/umpirsky/country-list
 - https://github.com/umpirsky/language-list
@@ -102,8 +106,9 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - BigBlueButton https://www.transifex.com/bigbluebutton/public/
 
 ## Ludoj
+
 - Hotel Duolingo by Richard Delamore (evildea) https://richarddelamore.itch.io/hotel-duolingo
-- Minecraft: https://crowdin.com/project/minecraft/eo# 
+- Minecraft: https://crowdin.com/project/minecraft/eo#
   - minecraft-serviloj en Esperanto: http://espera-mondo.net/
 - Slay the Spire: oficiala retejo ĉe https://www.megacrit.com/
   - kunlabori pri traduko: https://discord.gg/slaythespire
@@ -127,6 +132,7 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - A Dark Room: https://adarkroom.doublespeakgames.com/?lang=eo
 
 ### Listoj de Ludoj
+
 - Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj
 - Ludoj en Esperanto ĉe Steam: https://store.steampowered.com/curator/38919824/
 - Listo de tradukprojektoj: https://zizeloj.org/tradukoj/
@@ -141,28 +147,31 @@ Noto: tre utila ilo por traduki teknikajn terminojn estas: https://komputeko.net
 - https://duckduckgo.com/
 
 ## Datumaroj por maŝina lernado en Esperanto / Datasets for machine learning in Esperanto
-* Common Voice de Mozilla estas grandega datumaro de homaj voĉoj por maŝina lernado: https://commonvoice.mozilla.org/eo/datasets
-* Tatoeba estas datumaro kun frazoj en multaj lingvoj: https://tatoeba.org
-* Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
-* OSCAR or Open Super-large Crawled ALMAnaCH coRpus: https://oscar-project.org/ 
-* Lingualibre: https://lingualibre.org/
-* CC-100: Monolingual Datasets from Web Crawl Data https://data.statmt.org/cc-100/
-* [Open Assistant Conversations Dataset Release 2 (OASST2)](https://huggingface.co/datasets/OpenAssistant/oasst2) - Dialogoj en Esperanto
+
+- Common Voice de Mozilla estas grandega datumaro de homaj voĉoj por maŝina lernado: https://commonvoice.mozilla.org/eo/datasets
+- Tatoeba estas datumaro kun frazoj en multaj lingvoj: https://tatoeba.org
+- Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
+- OSCAR or Open Super-large Crawled ALMAnaCH coRpus: https://oscar-project.org/
+- Lingualibre: https://lingualibre.org/
+- CC-100: Monolingual Datasets from Web Crawl Data https://data.statmt.org/cc-100/
+- [Open Assistant Conversations Dataset Release 2 (OASST2)](https://huggingface.co/datasets/OpenAssistant/oasst2) - Dialogoj en Esperanto
 
 **🤗 Hugging Face**
 
 Hugging Face estas platformo kiu permesas al uzantoj publikigi maŝinlernajn modelojn kaj datumarojn.
-* Esperantaj Modeloj: https://huggingface.co/models?language=eo&sort=downloads
-* Esperantaj Dataumaroj: https://huggingface.co/datasets?language=language:eo
+
+- Esperantaj Modeloj: https://huggingface.co/models?language=eo&sort=downloads
+- Esperantaj Dataumaroj: https://huggingface.co/datasets?language=language:eo
 
 **Open Parallel Corpus**
 
 Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
 Ekzemple:
-* Open Subtitles https://opus.nlpl.eu/OpenSubtitles2018.php
-* GNOME: https://opus.nlpl.eu/GNOME.php
-* Tatoeba: https://opus.nlpl.eu/Tatoeba.php
-* Global Voices: https://opus.nlpl.eu/GlobalVoices.php
+
+- Open Subtitles https://opus.nlpl.eu/OpenSubtitles2018.php
+- GNOME: https://opus.nlpl.eu/GNOME.php
+- Tatoeba: https://opus.nlpl.eu/Tatoeba.php
+- Global Voices: https://opus.nlpl.eu/GlobalVoices.php
 
 ## Aliaj Listoj
 

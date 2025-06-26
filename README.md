@@ -36,6 +36,7 @@ Bv. aldonu per _pull request_.
 - Promgrameto por Montri Hazardan Lineon el la Proverbaro https://github.com/MJWootton/ProverbaroMontrilo
 - Reta Pasporta Servo (https://www.pasportaservo.org/) https://github.com/tejoesperanto/pasportaservo
 - Esperanta Chatbot: https://github.com/Sirbananathe6th/esperanto-chatbot
+- [Esperantaj Vortkomponantoj (VortKom)](https://github.com/helloyanis/Esperantaj-Vortkomponantoj) : Unika sistemo por malkomponi vortojn en Esperanto, por vidi iliajn diversajn partojn kaj kion ili signifas! https://vortkom.🦊💻.ws
 - Smart esperanto word parser and dictionary: https://github.com/rieselhilfe/parseo, web tool: parseo.online
 - Vikivojaĝa interaga mapo (Kubo) https://github.com/javiramoslab/Wikivoyage-Cuba-map mapo de Kubo kun info en Esperanto el Vikivojaĝo ([demo](https://JaviRamosLab.github.io/Wikivoyage-Cuba-map))
 - Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj) https://github.com/JaviRamosLab/Esperantists-nask-by-day ([demo](https://JaviRamosLab.github.io/Esperantists-nask-by-day))

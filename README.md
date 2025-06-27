@@ -107,75 +107,71 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 
 ## 🕹️ Ludoj
 
-- Hotel Duolingo by Richard Delamore (evildea) https://richarddelamore.itch.io/hotel-duolingo
-- Minecraft: https://crowdin.com/project/minecraft/eo#
-  - minecraft-serviloj en Esperanto: http://espera-mondo.net/
-- Slay the Spire: oficiala retejo ĉe https://www.megacrit.com/
-  - kunlabori pri traduko: https://discord.gg/slaythespire
-- Tooth & Tail: oficiala retejo ĉe http://www.toothandtailgame.com/
-  - anonco pri E-traduko: https://www.reddit.com/r/Esperanto/comments/k3xme2/nova_videoludo_tradukita_al_esperanto/
-- Keep Talking and Nobody Explodes: https://keeptalkinggame.com/translation-faq/
-- Spelunky: https://github.com/Rajzin/Spelunky-Esperanto-traduko
-- SuperTuxKart: https://supertuxkart.net/Translating_STK
-- Super Mario Bros https://www.romhacking.net/translations/6435/
-- Pokemon: https://github.com/waicalibre/pokered-eo
-- OpenRCT2: https://openrct2.org/ & https://github.com/OpenRCT2/Localisation
-- Polytopia: https://github.com/perfidulo/polytopia-eo
-- ZDoom:https://zdoom.org/
-- Fallout 4 (interfaco): https://www.nexusmods.com/fallout4/mods/10742
-- Geoguessr Esperantujo mapo: https://www.geoguessr.com/maps/5f89a5e8f018c00001c2247a
-- Drilling Billy: https://www.drillingbilly.com/download (teksto kaj sono en Esperanto)
-- Townscaper: https://store.steampowered.com/app/1291340/Townscaper/
-- 1255 Burgomaster: https://github.com/Areso/1255-burgomaster
-- A Boy and His Blob: Trouble on Blobolonia https://www.romhacking.net/translations/6424/
-- Age of Empires 1 audio mod: https://github.com/esperanto-rts/AoE1-eo-mod
-- A Dark Room: https://adarkroom.doublespeakgames.com/?lang=eo
+- **[Hotel Duolingo](https://richarddelamore.itch.io/hotel-duolingo)** by Richard Delamore (evildea) - Mallonga horora-videoluda sperto, kiu antaŭsciigas la ludanton pri tio, kio okazos se tiu forgesos fari sian ĉiutagan Duolingan lecionon.
+- **[Minecraft](https://minecraft.net)** *([🌐 Tradukoj](https://crowdin.com/project/minecraft/eo#))*
+  - [Minecraft-serviloj en Esperanto](http://espera-mondo.net/)
+- **[Slay the Spire](https://www.megacrit.com/)** - Ascend the Spire while battling bizarre creatures and discovering powerful relics in this roguelike deckbuilder.
+  - [Kunlabori pri traduko](https://discord.gg/slaythespire)
+- **[Tooth & Tail](http://www.toothandtailgame.com/)** - Lead the revolution with an army of flamethrowing Boars, mustard gas-lobbing Skunks, and paratrooper-puking Owls.
+  - [Anonco pri E-traduko](https://www.reddit.com/r/Esperanto/comments/k3xme2/nova_videoludo_tradukita_al_esperanto/)
+- **[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/translation-faq/)** - 
+You're alone in a room with a bomb. Your friends have the info you need to defuse it. But there’s a catch. They can’t see the bomb. So everyone will need to talk it out–fast!
+
+- **[Spelunky](https://github.com/Rajzin/Spelunky-Esperanto-traduko)** - Jen modifaĵo, kiu ebligas ludi [Spelunky](https://spelunkyworld.com/) en Esperanto. Ĝi aldonas ĉapelitajn literojn, kaj anstataŭigas ĉiujn anglajn tekstojn per tekstoj en Esperanto.
+- **[SuperTuxKart](https://supertuxkart.net/Translating_STK)** - A 3D open-source arcade racer with a variety characters, tracks, and modes to play. 
+- **[Super Mario Bros](http://github.com/tboronczyk/supermariobros)** *([🌐 RomHacking.net](https://www.romhacking.net/translations/6435/))* - Esperanta traduko de Super Mario Bros, videoludo por la Nintendo Entertainment System.
+
+- **[Pokémon](https://github.com/waicalibre/pokered-eo)** - This is an in-progress Esperanto translation of Pokémon Red and Blue
+- **[OpenRCT2](https://openrct2.org/)** *([🌐 Tradukoj](https://github.com/OpenRCT2/Localisation))* - Open source re-implementation of RollerCoaster Tycoon 2
+- **[Polytopia](https://polytopia.io)** *([🌐 Tradukoj](https://github.com/perfidulo/polytopia-eo))* - The Battle of Polytopia is an award winning  turn based strategy game about building a civilization and going into battle
+- **[ZDoom](https://zdoom.org/)** *([🌐 Tradukoj](https://zdoom.org/wiki/Internationalization))* - ZDoom is a family of enhanced ports of the Doom engine for running on modern operating systems
+- ~~**[Fallout 4 (interfaco)](https://www.nexusmods.com/fallout4/mods/10742)**~~ *Jam ne ekzistas*
+- **[Geoguessr Esperantujo mapo](https://www.geoguessr.com/maps/5f89a5e8f018c00001c2247a)**
+- **[Drilling Billy](https://www.drillingbilly.com/download)** - The 1997 DOS/OS2 game, teksto kaj sono en Esperanto
+- **[Townscaper](https://store.steampowered.com/app/1291340/Townscaper/)** - Build quaint island towns with curvy streets, small hamlets, soaring cathedrals, canal networks, or sky cities on stilts.
+- **[1255 Burgomaster](https://github.com/Areso/1255-burgomaster)** - Little town (travian) game w/ RPG mechanics. Playable. WIP 
+- **[A Boy and His Blob: Trouble on Blobolonia](https://github.com/tboronczyk/aboyandhisblob)** *([🌐 RomHacking.net](https://www.romhacking.net/translations/6435/))* - Esperanta traduko de A Boy and His
+Blob: Trouble on Blobolonia, videoludo por la Nintendo
+Entertainment System. 
+- **[Age of Empires 1](https://github.com/esperanto-rts/AoE1-eo-mod)** - Esperanto voices for Age of Empires 1
+- **[A Dark Room](https://adarkroom.doublespeakgames.com/?lang=eo)** - A Minimalist Text Adventure 
 
 ### 🕹️📜 Listoj de Ludoj
 
-- Alia listo de videoludoj: https://www.reddit.com/r/videoludado/wiki/ludoj
-- Ludoj en Esperanto ĉe Steam: https://store.steampowered.com/curator/38919824/
-- Listo de tradukprojektoj: https://zizeloj.org/tradukoj/
+- **[Alia listo de videoludoj](https://www.reddit.com/r/videoludado/wiki/ludoj)**
+- **[Ludoj en Esperanto ĉe Steam](https://store.steampowered.com/curator/38919824/)**
+- **[Listo de tradukprojektoj](https://zizeloj.org/tradukoj/)**
 
 ## 📱 Retejoj tradukitaj al Esperanto
 
-- https://www.facebook.com
-- Vikipedio: https://eo.wikipedia.org/
-- Vikivortaro: https://eo.wiktionary.org/
-- https://voice.mozilla.org/eo
-- https://languagetool.org/eo/
-- https://duckduckgo.com/
+- **[Facebook](https://www.facebook.com)**
+- **[Vikipedio](https://eo.wikipedia.org/)** - Esperanta Vikipedio estas projekto de kunlabora enciklopedio, universala kaj plurlingva, kreita interrete laŭ la vikio-principo
+- **[Vikivortaro](https://eo.wiktionary.org/)** - Kunlabora projekto por krei libere haveblan vortaron kaj vortprovizaron de ĉiuj lingvoj.
+- **[Mozilla CommonVoice](https://commonvoice.mozilla.org/eo)** - Publike disponebla voĉa datumaro, pelata de la voĉoj de kontribuantaj volontuloj en la tuta mondo
+- **[Languagetool](https://github.com/languagetool-org/languagetool)** *([🌐 Retejo](https://languagetool.org))* - Korektilo
+- **[DuckDuckGo](https://duckduckgo.com/)** - The browser that actively protects your personal information.
+**[Open Parallel Corpus](https://opus.nlpl.eu/)** estas datumaro kun frazoj en multaj lingvoj.
 
 ## 🤖 Datumaroj por maŝina lernado en Esperanto / Datasets for machine learning in Esperanto
 
-- Common Voice de Mozilla estas grandega datumaro de homaj voĉoj por maŝina lernado: https://commonvoice.mozilla.org/eo/datasets
-- Tatoeba estas datumaro kun frazoj en multaj lingvoj: https://tatoeba.org
-- Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
-- OSCAR or Open Super-large Crawled ALMAnaCH coRpus: https://oscar-project.org/
-- Lingualibre: https://lingualibre.org/
-- CC-100: Monolingual Datasets from Web Crawl Data https://data.statmt.org/cc-100/
-- [Open Assistant Conversations Dataset Release 2 (OASST2)](https://huggingface.co/datasets/OpenAssistant/oasst2) - Dialogoj en Esperanto
+- **[Common Voice de Mozilla](https://commonvoice.mozilla.org/eo/datasets)** - Grandega datumaro de homaj voĉoj por maŝina lernado
+- **[Tatoeba](https://tatoeba.org)** - Kolekto de frazoj kaj tradukoj
+- **[Open Super-large Crawled Aggregated coRpus (OSCAR)](https://oscar-project.org/)** - Open Source project aiming to provide web-based multilingual resources and datasets for Machine Learning (ML) and Artificial Intelligence (AI) applications
+- **[Lingualibre](https://lingualibre.org/)** - La partoprenebla lingva mediateko de "Wikimedia France".
+- **[CC-100](https://data.statmt.org/cc-100/)** - Monolingual Datasets from Web Crawl Data 
+- **[Open Assistant Conversations Dataset Release 2 (OASST2)](https://huggingface.co/datasets/OpenAssistant/oasst2)** - Dialogoj en Esperanto
 
-**🤗 Hugging Face**
+### 🤗 Hugging Face
 
-Hugging Face estas platformo kiu permesas al uzantoj publikigi maŝinlernajn modelojn kaj datumarojn.
+[Hugging Face](https://huggingface.co) estas platformo kiu permesas al uzantoj publikigi maŝinlernajn modelojn kaj datumarojn.
 
-- Esperantaj Modeloj: https://huggingface.co/models?language=eo&sort=downloads
-- Esperantaj Dataumaroj: https://huggingface.co/datasets?language=language:eo
+- **[Esperantaj Modeloj](https://huggingface.co/models?language=eo&sort=downloads)**
+- **[Esperantaj Dataumaroj](https://huggingface.co/datasets?language=language:eo)**
 
-**Open Parallel Corpus**
-
-Open Parallel Corpus estas datumaro kun frazoj en multaj lingvoj: https://opus.nlpl.eu/
-Ekzemple:
-
-- Open Subtitles https://opus.nlpl.eu/OpenSubtitles2018.php
-- GNOME: https://opus.nlpl.eu/GNOME.php
-- Tatoeba: https://opus.nlpl.eu/Tatoeba.php
-- Global Voices: https://opus.nlpl.eu/GlobalVoices.php
 
 ## 📚 Aliaj Listoj
 
-- Listo de programoj verkitaj en Esperanto: https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto
-- Listo de Esperantigitaj programoj: https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj
-- Listo de Esperantigataj programoj kaj retejoj ĉe komputeko.net https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj
-- Listo de parolteknologio en Esperanto: https://parolteknologio.github.io/
+- **[Listo de programoj verkitaj en Esperanto](https://eo.wikipedia.org/wiki/Listo_de_programoj_verkitaj_en_Esperanto)** (Vikipedio)
+- **[Listo de Esperantigitaj programoj](https://eo.wikipedia.org/wiki/Listo_de_Esperantigitaj_programoj)**
+- **[Listo de Esperantigataj programoj kaj retejoj](https://pliejo.komputeko.net/esperantigataj-programoj-kaj-retejoj)** (Komputeko.net)
+- **[Listo de parolteknologio en Esperanto](https://parolteknologio.github.io/)**

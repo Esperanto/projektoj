@@ -9,6 +9,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Esperanto](https://github.com/Esperanto)** - Malferma, naba organizo ĉe Github
 - **[Telegramo](https://telegramo.org/)** - Listo de esperantaj telegramaj grupoj
 - **[Esperanto.masto.host](https://esperanto.masto.host/about)** - Unu el la multaj sendependaj Mastodon-serviloj, kiujn vi povas uzi por partopreni en la fediverso.
+- **[Discord](https://discord.gg/esperanto)** servilo
 - **[Tejo](https://github.com/tejoesperanto/)** *([🌐 Retejo](https://tejo.org))* - La oficiala loko por [Tutmonda Esperantista Junulara Organizo (TEJO)](https://tejo.org)-rilataj projektoj
 - **[Eventa Servo](https://github.com/eventaservo/)** *([🌐 Retejo](https://eventaservo.org))* - Diskonigu Esperanto-eventojn tutmonde!
 - **[Dana Esperantista Junulara Organizo (DEJO)](https://github.com/DejoEsperanto)** *([🌐 Retejo](https://dejo.dk/))* - Organizo kiu zor­gas pri la danaj junuloj esperantistaj
@@ -17,8 +18,6 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Parolteknologio por Esperantujo](https://github.com/parolteknologio)** *([🌐 Retejo](https://parolteknologio.github.io/))* - Ni volas krei parolaj teknologioj por Esperanto, uzante Deepspeech, Coqui AI kaj pli.
 - **[Revuloj](https://github.com/revuloj)** - Restrukturata kodo de Voko-Iloj ([Reta Vortaro](https://www.reta-vortaro.de/))
 - **[Komputeko](https://github.com/KomputekoNet)** *([🌐 Retejo](https://komputeko.net/))* - Interreta projekto, kiu celas listigi komputilajn vortojn en kiel eble plej multaj lingvoj, por stimuli la uzadon de ĝuste tradukitaj terminoj
-- **[Germana Esperanto Junularo](https://gitlab.com/germana-esperanto-junularo)** - Germana Esperanto Junularo (GEJ) ĉe GitLab
-- **[Nova Reta Vortaro](https://github.com/nova-reta-vortaro)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://nrv.gelez.xyz/))*~~ - Reta vortaro, kun moderna dizajno
 
 ## 💻 Kodprojektoj
 
@@ -41,6 +40,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Parseo](https://github.com/rieselhilfe/parseo)** *([🌐 Retejo](https://parseo.online))* - Smart esperanto word parser and dictionary
 - **[Wikivoyage Cuba map (Esperanto)](https://github.com/javiramoslab/Wikivoyage-Cuba-map)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Wikivoyage-Cuba-map/))*~~ - Mapo de Kubo kun info en Esperanto el Vikivojaĝo
 - **[Esperantists nask by day](https://github.com/JaviRamosLab/Esperantists-nask-by-day)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Esperantists-nask-by-day/))*~~ - Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj)
+- **[Germana Esperanto Junularo](https://gitlab.com/germana-esperanto-junularo)** - Germana Esperanto Junularo (GEJ) ĉe GitLab
 
 ## 🧩 Kromprogramoj (addons):
 

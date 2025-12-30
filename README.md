@@ -116,7 +116,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
   - [Anonco pri E-traduko](https://www.reddit.com/r/Esperanto/comments/k3xme2/nova_videoludo_tradukita_al_esperanto/)
 - **[Keep Talking and Nobody Explodes](https://keeptalkinggame.com/translation-faq/)** - 
 You're alone in a room with a bomb. Your friends have the info you need to defuse it. But there’s a catch. They can’t see the bomb. So everyone will need to talk it out–fast!
-
+- **[Codenames Online](https://codenames.game/)** - A game of word association and teamwork for two opposing teams: Blue and Red. Each team tries to guess their own hidden words before the other team does — but one wrong guess could lead to disaster!
 - **[Spelunky](https://github.com/Rajzin/Spelunky-Esperanto-traduko)** - Jen modifaĵo, kiu ebligas ludi [Spelunky](https://spelunkyworld.com/) en Esperanto. Ĝi aldonas ĉapelitajn literojn, kaj anstataŭigas ĉiujn anglajn tekstojn per tekstoj en Esperanto.
 - **[SuperTuxKart](https://supertuxkart.net/Translating_STK)** - A 3D open-source arcade racer with a variety characters, tracks, and modes to play. 
 - **[Super Mario Bros](http://github.com/tboronczyk/supermariobros)** *([🌐 RomHacking.net](https://www.romhacking.net/translations/6435/))* - Esperanta traduko de Super Mario Bros, videoludo por la Nintendo Entertainment System.

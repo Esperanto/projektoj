@@ -7,6 +7,8 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 ## 👥 Esperantaj grupoj
 
 - **[Esperanto](https://github.com/Esperanto)** - Malferma, naba organizo ĉe Github
+- **[Telegramo](https://telegramo.org/)** - Listo de esperantaj telegramaj grupoj
+- **[Esperanto.masto.host](https://esperanto.masto.host/about)** - Unu el la multaj sendependaj Mastodon-serviloj, kiujn vi povas uzi por partopreni en la fediverso.
 - **[Tejo](https://github.com/tejoesperanto/)** *([🌐 Retejo](https://tejo.org))* - La oficiala loko por [Tutmonda Esperantista Junulara Organizo (TEJO)](https://tejo.org)-rilataj projektoj
 - **[Eventa Servo](https://github.com/eventaservo/)** *([🌐 Retejo](https://eventaservo.org))* - Diskonigu Esperanto-eventojn tutmonde!
 - **[Dana Esperantista Junulara Organizo (DEJO)](https://github.com/DejoEsperanto)** *([🌐 Retejo](https://dejo.dk/))* - Organizo kiu zor­gas pri la danaj junuloj esperantistaj
@@ -149,6 +151,7 @@ Entertainment System.
 
 - **[Facebook](https://www.facebook.com)**
 - **[Vikipedio](https://eo.wikipedia.org/)** - Esperanta Vikipedio estas projekto de kunlabora enciklopedio, universala kaj plurlingva, kreita interrete laŭ la vikio-principo
+- **[Mastodon](https://joinmastodon.org/eo)** *([🌐 Tradukoj](https://crowdin.com/projects?q=mastodon#advanced-search))*
 - **[Vikivortaro](https://eo.wiktionary.org/)** - Kunlabora projekto por krei libere haveblan vortaron kaj vortprovizaron de ĉiuj lingvoj.
 - **[Mozilla CommonVoice](https://commonvoice.mozilla.org/eo)** - Publike disponebla voĉa datumaro, pelata de la voĉoj de kontribuantaj volontuloj en la tuta mondo
 - **[Languagetool](https://github.com/languagetool-org/languagetool)** *([🌐 Retejo](https://languagetool.org))* - Korektilo

@@ -60,6 +60,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Reta Vortaro - Kindle](https://github.com/djuretic/revo-en-kindle)** - Esperanto dictionary (Reta Vortaro) for Kindle 
 - **[Esperanto to English dictionary for Kindle](https://github.com/coljac/kindle_eo_eng)**
 - **[Two Esperanto-English dictionaries confirmed working in Kobo ereaders.](https://github.com/lowtze/esperantaj-libroj/tree/main/Vortaroj)**
+- **[TeVo Telegrama Vortaro](https://github.com/espero451/tevobot)** *([🌐 Retejo](https://t.me/vortaro_bot))* - Telegram-roboto vortaro, bazita sur la datumbazo de la projekto Reta Vortaro.
 
 ## ⌨️ Klavaroj
 

@@ -39,6 +39,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Parseo](https://github.com/rieselhilfe/parseo)** *([🌐 Retejo](https://parseo.online))* - Smart esperanto word parser and dictionary
 - **[Wikivoyage Cuba map (Esperanto)](https://github.com/javiramoslab/Wikivoyage-Cuba-map)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Wikivoyage-Cuba-map/))*~~ - Mapo de Kubo kun info en Esperanto el Vikivojaĝo
 - **[Esperantists nask by day](https://github.com/JaviRamosLab/Esperantists-nask-by-day)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Esperantists-nask-by-day/))*~~ - Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj)
+- **[Verdkomunumo](https://github.com/atraineedeveloper/verdkomunumo)** *([🌐 Retejo](https://verdkomunumo.vercel.app/))* - Socia reto por parolantoj de Esperanto
 
 ## 🧩 Kromprogramoj (addons):
 

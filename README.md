@@ -82,6 +82,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Vosk STT](https://github.com/alphacep/vosk-api)** *([🌐 Retejo](https://alphacephei.com/vosk/models))* - Parolreknolilo en Espernato 
 - **[RHVoice](https://github.com/RHVoice/RHVoice)** *([🌐Retejo](https://rhvoice.org/))* - Esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS)
 - **[lensstudioakvonivelojdato](https://github.com/AndreasKueck/lensstudioakvonivelojdato)** *([🌐Retejo](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01))* - Lens-Studio-pakaĵo por Snapchat-lenso "Akvoniveloj (dato)" prezentanta elstarajn akvonivelojn per la harmona metodo
+- **[transskribi_amr](https://github.com/AndreasKueck/transskribi_amr)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makroo de la Android-a MacroDroid, por transskribi amr-sondosieron
 
 ## 📜 Vortlistoj:
 

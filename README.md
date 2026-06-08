@@ -40,6 +40,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Wikivoyage Cuba map (Esperanto)](https://github.com/javiramoslab/Wikivoyage-Cuba-map)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Wikivoyage-Cuba-map/))*~~ - Mapo de Kubo kun info en Esperanto el Vikivojaĝo
 - **[Esperantists nask by day](https://github.com/JaviRamosLab/Esperantists-nask-by-day)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Esperantists-nask-by-day/))*~~ - Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj)
 - **[Verdkomunumo](https://github.com/atraineedeveloper/verdkomunumo)** *([🌐 Retejo](https://verdkomunumo.vercel.app/))* - Socia reto por parolantoj de Esperanto
+- **[lensstudioobjektoj](https://github.com/AndreasKueck/lensstudioobjektoj)** *([🌐Retejo](https://www.snapchat.com/lens/6e0e3f071a0e41699d6a210516708f96))* - Lens-Studio-pakaĵo por Snapchat-lenso "Objektoj" prezentanta la situojn de Zamenhof/Esperanto-objektoj (ZEO-oj) plej proksimaj al la uzanto
 
 ## 🧩 Kromprogramoj (addons):
 

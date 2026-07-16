@@ -41,6 +41,9 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Wikivoyage Cuba map (Esperanto)](https://github.com/javiramoslab/Wikivoyage-Cuba-map)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Wikivoyage-Cuba-map/))*~~ - Mapo de Kubo kun info en Esperanto el Vikivojaĝo
 - **[Esperantists nask by day](https://github.com/JaviRamosLab/Esperantists-nask-by-day)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Esperantists-nask-by-day/))*~~ - Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj)
 - **[Germana Esperanto Junularo](https://gitlab.com/germana-esperanto-junularo)** - Germana Esperanto Junularo (GEJ) ĉe GitLab
+- **[Verdkomunumo](https://github.com/atraineedeveloper/verdkomunumo)** *([🌐 Retejo](https://verdkomunumo.vercel.app/))* - Socia reto por parolantoj de Esperanto
+- **[lensstudioobjektoj](https://github.com/AndreasKueck/lensstudioobjektoj)** *([🌐Retejo](https://www.snapchat.com/lens/6e0e3f071a0e41699d6a210516708f96))* - Lens-Studio-pakaĵo por Snapchat-lenso "Objektoj" prezentanta la situojn de Zamenhof/Esperanto-objektoj (ZEO-oj) plej proksimaj al la uzanto
+- **[Parolejo](https://github.com/bryan-parolejo)** *([🌐 Retejo](https://parolejo.app))* - Esperanto-kurso por Androido kaj iOS ne bezonanta retkonekton kaj baziĝanta sur la Zagreb-metoda kurso [esperanto12.net](https://esperanto12.net/) 
 
 ## 🧩 Kromprogramoj (addons):
 
@@ -62,6 +65,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Reta Vortaro - Kindle](https://github.com/djuretic/revo-en-kindle)** - Esperanto dictionary (Reta Vortaro) for Kindle 
 - **[Esperanto to English dictionary for Kindle](https://github.com/coljac/kindle_eo_eng)**
 - **[Two Esperanto-English dictionaries confirmed working in Kobo ereaders.](https://github.com/lowtze/esperantaj-libroj/tree/main/Vortaroj)**
+- **[TeVo Telegrama Vortaro](https://github.com/espero451/tevobot)** *([🌐 Retejo](https://t.me/vortaro_bot))* - Telegram-roboto vortaro, bazita sur la datumbazo de la projekto Reta Vortaro.
 
 ## ⌨️ Klavaroj
 
@@ -81,6 +85,11 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Vorto de la horo (Word of the hour)](https://wordofthehour.org/)** - A platform for learning words in multiple languages
 - **[Vosk STT](https://github.com/alphacep/vosk-api)** *([🌐 Retejo](https://alphacephei.com/vosk/models))* - Parolreknolilo en Espernato 
 - **[RHVoice](https://github.com/RHVoice/RHVoice)** *([🌐Retejo](https://rhvoice.org/))* - Esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS)
+- **[lensstudioakvonivelojdato](https://github.com/AndreasKueck/lensstudioakvonivelojdato)** *([🌐Retejo](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01))* - Lens-Studio-pakaĵo por Snapchat-lenso "Akvoniveloj (dato)" prezentanta elstarajn akvonivelojn per la harmona metodo
+- **[transskribi_amr](https://github.com/AndreasKueck/transskribi_amr)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makroo de la Android-a MacroDroid, por transskribi amr-sondosieron
+- **[maro](https://github.com/AndreasKueck/maro)** *([🌐Retejo](https://gist.github.com/AndreasKueck/a62016ed4c3efaa477691de06af8d794))* - Pakaĵo por ret-apo kaj Android-apo eligantaj akvonivelojn prognozitajn per la harmona metodo
+- **[telefonikunchatgpt](https://github.com/AndreasKueck/telefonikunchatgpt)** *([🌐Retejo](https://medium.com/westphoenizier/en-esperanto-telefoni-kun-chatgpt-f97a6c3429dc))* - Replit-pakaĵo por programo, kiu ebligas telefonadon kun voĉo kreita per artefarita intelekto kaj respondanta surbaze de granda lingvomodelo de ChatGPT de Open AI
+- **[traduktelefono](https://github.com/AndreasKueck/traduktelefono)** *([🌐Retejo](https://medium.com/westphoenizier/traduktelefono-468e3baba566))* - Replit-pakaĵo por traduktelefono per ChatGPT kaj Twilio: Ambaŭ telefonantoj parolas sian propran lingvon kaj aŭdas en ĝin tradukon de la alia lingvo
 
 ## 📜 Vortlistoj:
 

@@ -2,17 +2,17 @@
 
 (kiu ne estas sub https://github.com/Esperanto/ )
 
-Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master/README.md).
+Bv. aldoni per [pull request](https://github.com/Esperanto/projektoj/edit/master/README.md).
 
 ## 👥 Esperantaj grupoj
 
 - **[Esperanto](https://github.com/Esperanto)** - Malferma, naba organizo ĉe Github
 - **[Tejo](https://github.com/tejoesperanto/)** *([🌐 Retejo](https://tejo.org))* - La oficiala loko por [Tutmonda Esperantista Junulara Organizo (TEJO)](https://tejo.org)-rilataj projektoj
 - **[Eventa Servo](https://github.com/eventaservo/)** *([🌐 Retejo](https://eventaservo.org))* - Diskonigu Esperanto-eventojn tutmonde!
-- **[Dana Esperantista Junulara Organizo (DEJO)](https://github.com/DejoEsperanto)** *([🌐 Retejo](https://dejo.dk/))* - Organizo kiu zor­gas pri la danaj junuloj esperantistaj
+- **[Dana Esperantista Junulara Organizo (DEJO)](https://github.com/DejoEsperanto)** *([🌐 Retejo](https://dejo.dk/))* - Organizo kiu zorgas pri la danaj junuloj esperantistaj
 - **[Universala Esperanto-Asocio (UEA)](https://github.com/UEAesperanto)** *([🌐 Retejo](https://uea.org))* - Nuntempe UEA estas la plej granda internacia organizaĵo por la parolantoj de Esperanto kaj havas membrojn en 120 landoj.
 - **[Administra Komuna Sistemo Organiza (AKSO)](https://github.com/AksoEo)** *([🌐 Retejo](https://akso.org/))* - AKSO estas komuna projekto de Universala Esperanto-Asocio kaj Tutmonda Esperantista Junulara Organizo, kiu celas renovigi la retajn ilojn kaj administrajn sistemojn de la organizoj. 
-- **[Parolteknologio por Esperantujo](https://github.com/parolteknologio)** *([🌐 Retejo](https://parolteknologio.github.io/))* - Ni volas krei parolaj teknologioj por Esperanto, uzante Deepspeech, Coqui AI kaj pli.
+- **[Parolteknologio por Esperantujo](https://github.com/parolteknologio)** *([🌐 Retejo](https://parolteknologio.github.io/))* - Ni volas krei parolajn teknologiojn por Esperanto, uzante Deepspeech, Coqui AI kaj pli.
 - **[Revuloj](https://github.com/revuloj)** - Restrukturata kodo de Voko-Iloj ([Reta Vortaro](https://www.reta-vortaro.de/))
 - **[Komputeko](https://github.com/KomputekoNet)** *([🌐 Retejo](https://komputeko.net/))* - Interreta projekto, kiu celas listigi komputilajn vortojn en kiel eble plej multaj lingvoj, por stimuli la uzadon de ĝuste tradukitaj terminoj
 - **[Germana Esperanto Junularo](https://gitlab.com/germana-esperanto-junularo)** - Germana Esperanto Junularo (GEJ) ĉe GitLab
@@ -27,12 +27,12 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Muzaiko](https://github.com/bpeel/Muzaiko)** *([🌐 Retejo](http://muzaiko.info/))*
 - **[Esperanto Phrase](https://github.com/qubist/esperanto-phrase)** - A script that generates random Esperanto sentences
 - **[eopl](https://github.com/martinrue/eopl)** - `eopl` transcribes Esperanto sentences to phonetic Polish.
-- **[vocx](https://github.com/martinrue/vocx)** - Transkribas esperantajn leterojn el la pola skribsitemon uzeblaj en pola maŝinaj voĉoj. Bazo de [Parol](https://github.com/martinrue/parol-web).
+- **[vocx](https://github.com/martinrue/vocx)** - Transskribas esperantan tekston al la pola skribsistemo, kiu uzeblas per polaj maŝin-voĉoj. Bazo de [Parol](https://github.com/martinrue/parol-web).
 - **[ofteco](https://github.com/martinrue/ofteco)** - Ilo por analizi la uzadon de Esperanto per video-transskriboj
-- ~~**[Rust Esperanto parser](https://gitlab.com/C-Bouthoorn/rust-esperanto-parser)** - *Ĉi tiu kodprojektoj jam ne ekzistas*~~
+- ~~**[Rust Esperanto parser](https://gitlab.com/C-Bouthoorn/rust-esperanto-parser)** - *Ĉi tiu kodprojekto jam ne ekzistas*~~
 - **[Randomly Generated Esperanto Things](https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things)** - I can't always come up with ideas. So might as well have the computer work for me!
 - **[Pinjinilo](https://github.com/MJWootton/Pinjinilo)** - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo
-- **[ProverbaroMontrilo](https://github.com/MJWootton/ProverbaroMontrilo)** - Promgrameto por Montri Hazardan Lineon el la Proverbaro 
+- **[ProverbaroMontrilo](https://github.com/MJWootton/ProverbaroMontrilo)** - Programeto por Montri Hazardan Linion el la Proverbaro 
 - **[Reta Pasporta Servo](https://github.com/tejoesperanto/pasportaservo)** *([🌐 Retejo](https://www.pasportaservo.org/))* - La fama gastiga servo por esperantistoj
 - **[Esperanta Chatbot](https://github.com/Sirbananathe6th/esperanto-chatbot)** - Need a friend to speak Esperanto with? Need a friend period? Well this robot can fill that empty void in your heart!
 - **[Esperantaj Vortkomponantoj (VortKom)](https://github.com/helloyanis/Esperantaj-Vortkomponantoj)** *([🌐 Retejo](https://vortkom.🦊💻.ws))* : Unika sistemo por malkomponi vortojn en Esperanto, por vidi iliajn diversajn partojn kaj kion ili signifas!
@@ -81,8 +81,8 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Languagetool](https://github.com/languagetool-org/languagetool)** *([🌐 Retejo](https://languagetool.org))* - Korektilo
 - **[Libretranslate](https://github.com/LibreTranslate/LibreTranslate)** *([🌐 Retejo](https://eo.libretranslate.com))* - API de malfermitkoda maŝina tradukado
 - **[Vorto de la horo (Word of the hour)](https://wordofthehour.org/)** - A platform for learning words in multiple languages
-- **[Vosk STT](https://github.com/alphacep/vosk-api)** *([🌐 Retejo](https://alphacephei.com/vosk/models))* - Parolreknolilo en Espernato 
-- **[RHVoice](https://github.com/RHVoice/RHVoice)** *([🌐Retejo](https://rhvoice.org/))* - Esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS)
+- **[Vosk STT](https://github.com/alphacep/vosk-api)** *([🌐 Retejo](https://alphacephei.com/vosk/models))* - Parolrekonilo en Esperanto 
+- **[RHVoice](https://github.com/RHVoice/RHVoice)** *([🌐Retejo](https://rhvoice.org/))* - Esperanta komputila voĉo por Android, Vindozo kaj Linukso (TTS)
 - **[lensstudioakvonivelojdato](https://github.com/AndreasKueck/lensstudioakvonivelojdato)** *([🌐Retejo](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01))* - Lens-Studio-pakaĵo por Snapchat-lenso "Akvoniveloj (dato)" prezentanta elstarajn akvonivelojn per la harmona metodo
 - **[transskribi_amr](https://github.com/AndreasKueck/transskribi_amr)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makroo de la Android-a apo MacroDroid, por transskribi amr-sondosieron
 - **[maro](https://github.com/AndreasKueck/maro)** *([🌐Retejo](https://gist.github.com/AndreasKueck/a62016ed4c3efaa477691de06af8d794))* - Pakaĵo por ret-apo kaj Android-apo eligantaj akvonivelojn prognozitajn per la harmona metodo
@@ -100,7 +100,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 ## 💬 Tradukado
 
 > [!NOTE]
-> [Komputeko](https://komputeko.net/) estas tre utila ilo por traduki teknikajn terminojn estas: 
+> [Komputeko](https://komputeko.net/) estas tre utila ilo por traduki teknikajn terminojn: 
 
 - **[The Translation Project](http://translationproject.org/team/eo.html)**
 - **[DuckDuckGo](https://github.com/duckduckgo/duckduckgo-locales)**
@@ -133,7 +133,6 @@ You're alone in a room with a bomb. Your friends have the info you need to defus
 - **[Spelunky](https://github.com/Rajzin/Spelunky-Esperanto-traduko)** - Jen modifaĵo, kiu ebligas ludi [Spelunky](https://spelunkyworld.com/) en Esperanto. Ĝi aldonas ĉapelitajn literojn, kaj anstataŭigas ĉiujn anglajn tekstojn per tekstoj en Esperanto.
 - **[SuperTuxKart](https://supertuxkart.net/Translating_STK)** - A 3D open-source arcade racer with a variety characters, tracks, and modes to play. 
 - **[Super Mario Bros](http://github.com/tboronczyk/supermariobros)** *([🌐 RomHacking.net](https://www.romhacking.net/translations/6435/))* - Esperanta traduko de Super Mario Bros, videoludo por la Nintendo Entertainment System.
-
 - **[Pokémon](https://github.com/waicalibre/pokered-eo)** - This is an in-progress Esperanto translation of Pokémon Red and Blue
 - **[OpenRCT2](https://openrct2.org/)** *([🌐 Tradukoj](https://github.com/OpenRCT2/Localisation))* - Open source re-implementation of RollerCoaster Tycoon 2
 - **[Polytopia](https://polytopia.io)** *([🌐 Tradukoj](https://github.com/perfidulo/polytopia-eo))* - The Battle of Polytopia is an award winning  turn based strategy game about building a civilization and going into battle
@@ -163,7 +162,7 @@ Entertainment System.
 - **[Mozilla CommonVoice](https://commonvoice.mozilla.org/eo)** - Publike disponebla voĉa datumaro, pelata de la voĉoj de kontribuantaj volontuloj en la tuta mondo
 - **[Languagetool](https://github.com/languagetool-org/languagetool)** *([🌐 Retejo](https://languagetool.org))* - Korektilo
 - **[DuckDuckGo](https://duckduckgo.com/)** - The browser that actively protects your personal information.
-**[Open Parallel Corpus](https://opus.nlpl.eu/)** estas datumaro kun frazoj en multaj lingvoj.
+- **[Open Parallel Corpus](https://opus.nlpl.eu/)** estas datumaro kun frazoj en multaj lingvoj.
 
 ## 🤖 Datumaroj por maŝina lernado en Esperanto / Datasets for machine learning in Esperanto
 
@@ -179,7 +178,7 @@ Entertainment System.
 [Hugging Face](https://huggingface.co) estas platformo kiu permesas al uzantoj publikigi maŝinlernajn modelojn kaj datumarojn.
 
 - **[Esperantaj Modeloj](https://huggingface.co/models?language=eo&sort=downloads)**
-- **[Esperantaj Dataumaroj](https://huggingface.co/datasets?language=language:eo)**
+- **[Esperantaj Datumaroj](https://huggingface.co/datasets?language=language:eo)**
 
 
 ## 📚 Aliaj Listoj

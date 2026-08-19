@@ -32,7 +32,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - ~~**[Rust Esperanto parser](https://gitlab.com/C-Bouthoorn/rust-esperanto-parser)** - *Ĉi tiu kodprojektoj jam ne ekzistas*~~
 - **[Randomly Generated Esperanto Things](https://gitlab.com/aya-dan-conlangs/randomly-generated-esperanto-things)** - I can't always come up with ideas. So might as well have the computer work for me!
 - **[Pinjinilo](https://github.com/MJWootton/Pinjinilo)** - Konverti Ĉinan Pinjinan (汉语拼音) Tekston kaj Ĉinsignojn (汉字) al Esperanto-Literumsistemo
-- **[ProverbaroMontrilo](https://github.com/MJWootton/ProverbaroMontrilo)** - Promgrameto por Montri Hazardan Lineon el la Proverbaro 
+- **[ProverbaroMontrilo](https://github.com/MJWootton/ProverbaroMontrilo)** - Programeto por Montri Hazardan Lineon el la Proverbaro 
 - **[Reta Pasporta Servo](https://github.com/tejoesperanto/pasportaservo)** *([🌐 Retejo](https://www.pasportaservo.org/))* - La fama gastiga servo por esperantistoj
 - **[Esperanta Chatbot](https://github.com/Sirbananathe6th/esperanto-chatbot)** - Need a friend to speak Esperanto with? Need a friend period? Well this robot can fill that empty void in your heart!
 - **[Esperantaj Vortkomponantoj (VortKom)](https://github.com/helloyanis/Esperantaj-Vortkomponantoj)** *([🌐 Retejo](https://vortkom.🦊💻.ws))* : Unika sistemo por malkomponi vortojn en Esperanto, por vidi iliajn diversajn partojn kaj kion ili signifas!
@@ -83,17 +83,19 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Languagetool](https://github.com/languagetool-org/languagetool)** *([🌐 Retejo](https://languagetool.org))* - Korektilo
 - **[Libretranslate](https://github.com/LibreTranslate/LibreTranslate)** *([🌐 Retejo](https://eo.libretranslate.com))* - API de malfermitkoda maŝina tradukado
 - **[Vorto de la horo (Word of the hour)](https://wordofthehour.org/)** - A platform for learning words in multiple languages
-- **[Vosk STT](https://github.com/alphacep/vosk-api)** *([🌐 Retejo](https://alphacephei.com/vosk/models))* - Parolreknolilo en Espernato 
+- **[Vosk STT](https://github.com/alphacep/vosk-api)** *([🌐 Retejo](https://alphacephei.com/vosk/models))* - Parolreknolilo en Esperanto 
 - **[RHVoice](https://github.com/RHVoice/RHVoice)** *([🌐Retejo](https://rhvoice.org/))* - Esperanta komputila voĉo por Android, Vindoso kaj Linukso (TTS)
 - **[lensstudioakvonivelojdato](https://github.com/AndreasKueck/lensstudioakvonivelojdato)** *([🌐Retejo](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e))* - Lens-Studio-pakaĵo por Snapchat-lenso "Akvoniveloj (dato)" prezentanta elstarajn akvonivelojn per la harmona metodo
 - **[transskribi_amr](https://github.com/AndreasKueck/transskribi_amr)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makroo de la Android-a apo MacroDroid, por transskribi amr-sondosieron
 - **[maro](https://github.com/AndreasKueck/maro)** *([🌐Retejo](https://gist.github.com/AndreasKueck/a62016ed4c3efaa477691de06af8d794))* - Pakaĵo por ret-apo kaj Android-apo eligantaj akvonivelojn prognozitajn per la harmona metodo
 - **[telefonikunchatgpt](https://github.com/AndreasKueck/telefonikunchatgpt)** *([🌐Retejo](https://medium.com/westphoenizier/en-esperanto-telefoni-kun-chatgpt-f97a6c3429dc))* - Replit-pakaĵo por programo, kiu ebligas telefonadon kun voĉo kreita per artefarita intelekto kaj respondanta surbaze de granda lingvomodelo de ChatGPT de Open AI
 - **[traduktelefono](https://github.com/AndreasKueck/traduktelefono)** *([🌐Retejo](https://medium.com/westphoenizier/traduktelefono-468e3baba566))* - Replit-pakaĵo por traduktelefono per ChatGPT kaj Twilio: Ambaŭ telefonantoj parolas sian propran lingvon kaj aŭdas en ĝin tradukon de la alia lingvo
-- **[traduko](https://github.com/AndreasKueck/traduko)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makrooj de la Android-a apo MacroDroid por preskaŭ realtempaj transskribo kaj traduko de la sono eniranta en la mikrofonan enigon
+- **[traduko](https://github.com/AndreasKueck/traduko)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makrooj de la Android-a apo MacroDroid por preskaŭ realtempaj transskribo kaj traduko de la sono eniranta en la smartfonan mikrofonon
 - **[elsendoj](https://github.com/AndreasKueck/elsendoj)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbx5zvsyQmJCZRAAxUvqX9tNcV7maLSNBJQhecjkhcuG41eCPoBOVg7Z55pjPdkgshH0/exec))* - Pakaĵo por ret-apo kaj Android-apo eligantaj liston de amplitudmodulade dissendataj radioelsendoj en elektita lingvo
 - **[lensstudiokartonavr](https://github.com/AndreasKueck/lensstudiokartonavr)** *([🌐Retejo](https://www.snapchat.com/lens/bf8bdd8c57094268bb77bdc3da69dbd7))* - Lens-Studio-pakaĵo por Snapchat-lenso "Kartona VR": Uzante ĝin kombine kun ekzemple kartonaj okulvitroj por virtuala realo, oni spertas tri-dimensian efekton en la ĉirkaŭaĵo
 - **[lensstudioprognozodemuf](https://github.com/AndreasKueck/lensstudioprognozodemuf)** *([🌐Retejo](https://www.snapchat.com/lens/3b837ee83eb945eab68e32661de776b8))* - Lens-Studio-pakaĵo por Snapchat-lenso "Prognozo de MUF". Ĝi eligas la maksimuman uzeblan frekvencon (MUF) inter la sendoloko de Europa24 kaj loko de la uzanto surbaze de la "MINIMUF-3"-algoritmo
+- **[lensstudioelsendojareoa](https://github.com/AndreasKueck/lensstudioelsendojareoa)** *([🌐Retejo](https://www.snapchat.com/lens/71ef325bea164496913810ce16d71a56))* - Lens-Studio-pakaĵo por Snapchat-lenso "Elsendoj (areo A)". Ĝi eligas liston de radio-elsendoj, kiuj en la tempo de la uzo de la lenso estas dissendataj en amplitudmodulado en frekvencoj de 2300 ĝis 26100 kHz
+
 
 ## 📜 Vortlistoj:
 

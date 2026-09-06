@@ -96,6 +96,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[lensstudioprognozodemuf](https://github.com/AndreasKueck/lensstudioprognozodemuf)** *([🌐Retejo](https://www.snapchat.com/lens/3b837ee83eb945eab68e32661de776b8))* - Lens-Studio-pakaĵo por Snapchat-lenso "Prognozo de MUF". Ĝi eligas la maksimuman uzeblan frekvencon (MUF) inter la sendoloko de Europa24 kaj loko de la uzanto surbaze de la "MINIMUF-3"-algoritmo
 - **[lensstudioelsendojareoa](https://github.com/AndreasKueck/lensstudioelsendojareoa)** *([🌐Retejo](https://www.snapchat.com/lens/71ef325bea164496913810ce16d71a56))* - Lens-Studio-pakaĵo por Snapchat-lenso "Elsendoj (areo A)". Ĝi eligas liston de radio-elsendoj, kiuj en la tempo de la uzo de la lenso estas dissendataj en amplitudmodulado en frekvencoj de 2300 ĝis 26100 kHz
 - **[europoaerpremo](https://github.com/AndreasKueck/europoaerpremo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbwc4oIIbLjEPtsnrAXbOTEPbt3biVpJG84uSLNBQDyTQCdtdy5SB1Rc7gzN5AGTn_s5/exec))* - Pakaĵo por ret-apo kaj Android-apo montrantaj la aerpremon super Europo
+- **[lensstudioeuropoaerpremo](https://github.com/AndreasKueck/lensstudioeuropoaerpremo)** *([🌐Retejo](https://www.snapchat.com/lens/052adfc26f8f4adbb4b56fd07804b7b0))* - Lens-Studio-pakaĵo por Snapchat-lenso "Europo: aerpremo". Ĝi montras la aerpremon super Europo
 
 
 ## 📜 Vortlistoj:

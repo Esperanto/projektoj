@@ -98,7 +98,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[lensstudioelsendojareoa](https://github.com/AndreasKueck/lensstudioelsendojareoa)** *([🌐Retejo](https://www.snapchat.com/lens/71ef325bea164496913810ce16d71a56))* - Lens-Studio-pakaĵo por Snapchat-lenso "Elsendoj (areo A)". Ĝi eligas liston de radio-elsendoj, kiuj en la tempo de la uzo de la lenso estas dissendataj en amplitudmodulado en frekvencoj de 2300 ĝis 26100 kHz
 - **[europoaerpremo](https://github.com/AndreasKueck/europoaerpremo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbwc4oIIbLjEPtsnrAXbOTEPbt3biVpJG84uSLNBQDyTQCdtdy5SB1Rc7gzN5AGTn_s5/exec))* - Pakaĵo por ret-apo kaj Android-apo montrantaj la aerpremon super Eŭropo
 - **[lensstudioeuropoaerpremo](https://github.com/AndreasKueck/lensstudioeuropoaerpremo)** *([🌐Retejo](https://www.snapchat.com/lens/052adfc26f8f4adbb4b56fd07804b7b0))* - Lens-Studio-pakaĵo por Snapchat-lenso "Europo: aerpremo". Ĝi montras la aerpremon super Eŭropo
-
+- **[informtabulo](https://github.com/AndreasKueck/informtabulo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbxtEV2wARkUP-eM7a4s4pKAEDzLpL5kH6RcejkGD6Y_Mo6pttkMJWeY89KUbJyQzDe-Vw/exec))* - Pakaĵo por ret-apo "Radio, televido kaj pli" funkcianta, kiel simpla informtabulo; uzantoj povas kontribui per afiŝoj kaj komentoj
 
 ## 📜 Vortlistoj:
 

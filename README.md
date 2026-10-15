@@ -45,6 +45,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Parolejo](https://github.com/bryan-parolejo)** *([🌐 Retejo](https://parolejo.app))* - Esperanto-kurso por Androido kaj iOS ne bezonanta retkonekton kaj baziĝanta sur la [Zagreb-metoda kurso](https://github.com/esperanto/kurso-zagreba-metodo)
 - **[lensstudioeo12](https://github.com/AndreasKueck/lensstudioeo12)** *([🌐Retejo](https://www.snapchat.com/lens/db5e823f3356404d9f2bdbbe00096fef))* - Lens-Studio-pakaĵo por Snapchat-lenso "esperanto12" provizanta la uzanton per ĉapo kun teksto atentiganta pri kurso esperanto12.net
 - **[interfaco](https://github.com/AndreasKueck/interfaco)** *([🌐 Retejo](https://github.com/AndreasKueck/interfaco))* - Tampermonkey-skripto, por traduki uzantointerfacajn elementojn en Esperanton per la OpenAI-API; la skripto funkcias en Google Docs kaj aliaj retejoj
+- **[platformoj](https://github.com/AndreasKueck/platformoj)** - Informoj pri projektoj celantaj kreadon aŭ funkciigadon de platformo por esperantistoj ekster BlueSky, Discord, Facebook, Google Groups, Instagram, Mastodon, Reddit, Snapchat, Telegram, TikTok, X kaj Youtube
  
 ## 🧩 Kromprogramoj (addons):
 

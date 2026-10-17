@@ -46,6 +46,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[lensstudioeo12](https://github.com/AndreasKueck/lensstudioeo12)** *([🌐Retejo](https://www.snapchat.com/lens/db5e823f3356404d9f2bdbbe00096fef))* - Lens-Studio-pakaĵo por Snapchat-lenso "esperanto12" provizanta la uzanton per ĉapo kun teksto atentiganta pri kurso esperanto12.net
 - **[interfaco](https://github.com/AndreasKueck/interfaco)** *([🌐 Retejo](https://github.com/AndreasKueck/interfaco))* - Tampermonkey-skripto, por traduki uzantointerfacajn elementojn en Esperanton per la OpenAI-API; la skripto funkcias en Google Docs kaj aliaj retejoj
 - **[platformoj](https://github.com/AndreasKueck/platformoj)** - Informoj pri projektoj celantaj kreadon aŭ funkciigadon de platformo por esperantistoj ekster BlueSky, Discord, Facebook, Google Groups, Instagram, Mastodon, Reddit, Snapchat, Telegram, TikTok, X kaj Youtube
+- **[Esperanto-STT](https://github.com/BitsAndDopamine/Esperanto-STT/)** - Krei srt-dosierojn el Esperantaj mp3-dosieroj
  
 ## 🧩 Kromprogramoj (addons):
 
@@ -100,6 +101,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[europoaerpremo](https://github.com/AndreasKueck/europoaerpremo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbwc4oIIbLjEPtsnrAXbOTEPbt3biVpJG84uSLNBQDyTQCdtdy5SB1Rc7gzN5AGTn_s5/exec))* - Pakaĵo por ret-apo kaj Android-apo montrantaj la aerpremon super Eŭropo
 - **[lensstudioeuropoaerpremo](https://github.com/AndreasKueck/lensstudioeuropoaerpremo)** *([🌐Retejo](https://www.snapchat.com/lens/052adfc26f8f4adbb4b56fd07804b7b0))* - Lens-Studio-pakaĵo por Snapchat-lenso "Europo: aerpremo". Ĝi montras la aerpremon super Eŭropo
 - **[informtabulo](https://github.com/AndreasKueck/informtabulo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbxtEV2wARkUP-eM7a4s4pKAEDzLpL5kH6RcejkGD6Y_Mo6pttkMJWeY89KUbJyQzDe-Vw/exec))* - Pakaĵo por ret-apo "Radio, televido kaj pli" funkcianta, kiel simpla informtabulo; uzantoj povas kontribui per afiŝoj kaj komentoj
+- **[transskribi](https://github.com/AndreasKueck/transskribi)** - Skripto uzebla kadre de la krozila kromprogramo Tampermonkey kaj ebliganta transskribon de sono venanta de krozila langeto
 
 ## 📜 Vortlistoj:
 

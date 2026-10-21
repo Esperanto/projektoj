@@ -109,6 +109,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Listo de landoj](https://github.com/umpirsky/country-list)** - List of all countries with names and ISO 3166-1 codes in all languages and data formats. 
 - **[Listo de valutoj](https://github.com/umpirsky/currency-list)** - List of all currencies with names and ISO 4217 codes in all languages and all data formats. 
 - **[Listo de Esperantaj urbonomoj](https://github.com/LaPingvino/Esperanto-Town-Names)**
+- **[La 1000 plej oftaj vortoj de Esperanto](https://github.com/automatylicza/esperanto-1000-words)** *([🌐 Retejo](https://esperantopedia.org/eo/lerni/1000-vortoj/))* - La 1000 plej oftaj vortoj laŭ la frazoj de Tatoeba, kun vortspeco, ofteco kaj signifoj en 11 lingvoj (CSV kaj Anki); CC BY-SA 4.0
 
 ## 💬 Tradukado
 

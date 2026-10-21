@@ -39,10 +39,15 @@ Bv. aldoni per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Parseo](https://github.com/rieselhilfe/parseo)** *([🌐 Retejo](https://parseo.online))* - Smart esperanto word parser and dictionary
 - **[Wikivoyage Cuba map (Esperanto)](https://github.com/javiramoslab/Wikivoyage-Cuba-map)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Wikivoyage-Cuba-map/))*~~ - Mapo de Kubo kun info en Esperanto el Vikivojaĝo
 - **[Esperantists nask by day](https://github.com/JaviRamosLab/Esperantists-nask-by-day)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Esperantists-nask-by-day/))*~~ - Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj)
-- **[Verdkomunumo](https://github.com/atraineedeveloper/verdkomunumo)** *([🌐 Retejo](https://verdkomunumo.vercel.app/))* - Socia reto por parolantoj de Esperanto
+- ~~**[Verdkomunumo](https://github.com/atraineedeveloper/verdkomunumo)** *([🌐 Retejo](https://verdkomunumo.vercel.app/))* - Socia reto por parolantoj de Esperanto~~ Tiu ĉi GitHub-deponejo ne plu ekzistas, kaj tiu ĉi retejo ne plu funkcias
 - **[lensstudioobjektoj](https://github.com/AndreasKueck/lensstudioobjektoj)** *([🌐Retejo](https://www.snapchat.com/lens/6e0e3f071a0e41699d6a210516708f96))* - Lens-Studio-pakaĵo por Snapchat-lenso "Objektoj" prezentanta la situojn de Zamenhof/Esperanto-objektoj (ZEO-oj) plej proksimaj al la uzanto
-- **[Parolejo](https://github.com/bryan-parolejo)** *([🌐 Retejo](https://parolejo.app))* - Esperanto-kurso por Androido kaj iOS ne bezonanta retkonekton kaj baziĝanta sur la Zagreb-metoda kurso [esperanto12.net](https://esperanto12.net/) 
-
+- **[kurso-zagreba-metodo](https://github.com/esperanto/kurso-zagreba-metodo)** *([🌐 Retejo](https://esperanto12.net))* - La kurso laŭ la [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo), ciferecigita. Ekzistas kiel retejo Esperanto12.net sed ankaŭ eblas krei aliajn eligojn, ekzemple PDF, tra Markown.
+- **[Parolejo](https://github.com/bryan-parolejo)** *([🌐 Retejo](https://parolejo.app))* - Esperanto-kurso por Androido kaj iOS ne bezonanta retkonekton kaj baziĝanta sur la [Zagreb-metoda kurso](https://github.com/esperanto/kurso-zagreba-metodo)
+- **[lensstudioeo12](https://github.com/AndreasKueck/lensstudioeo12)** *([🌐Retejo](https://www.snapchat.com/lens/db5e823f3356404d9f2bdbbe00096fef))* - Lens-Studio-pakaĵo por Snapchat-lenso "esperanto12" provizanta la uzanton per ĉapo kun teksto atentiganta pri kurso esperanto12.net
+- **[interfaco](https://github.com/AndreasKueck/interfaco)** *([🌐 Retejo](https://github.com/AndreasKueck/interfaco))* - Tampermonkey-skripto, por traduki uzantointerfacajn elementojn en Esperanton per la OpenAI-API; la skripto funkcias en Google Docs kaj aliaj retejoj
+- **[platformoj](https://github.com/AndreasKueck/platformoj)** - Informoj pri projektoj celantaj kreadon aŭ funkciigadon de platformo por esperantistoj ekster BlueSky, Discord, Facebook, Google Groups, Instagram, Mastodon, Reddit, Snapchat, Telegram, TikTok, X kaj Youtube
+- **[Esperanto-SRT](https://github.com/BitsAndDopamine/Esperanto-SRT/)** - Krei srt-dosierojn el Esperantaj mp3-dosieroj
+ 
 ## 🧩 Kromprogramoj (addons):
 
 - **[Esperanto Spellchecker](https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer)** (LibreOffice)
@@ -83,12 +88,20 @@ Bv. aldoni per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Vorto de la horo (Word of the hour)](https://wordofthehour.org/)** - A platform for learning words in multiple languages
 - **[Vosk STT](https://github.com/alphacep/vosk-api)** *([🌐 Retejo](https://alphacephei.com/vosk/models))* - Parolrekonilo en Esperanto 
 - **[RHVoice](https://github.com/RHVoice/RHVoice)** *([🌐Retejo](https://rhvoice.org/))* - Esperanta komputila voĉo por Android, Vindozo kaj Linukso (TTS)
-- **[lensstudioakvonivelojdato](https://github.com/AndreasKueck/lensstudioakvonivelojdato)** *([🌐Retejo](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01))* - Lens-Studio-pakaĵo por Snapchat-lenso "Akvoniveloj (dato)" prezentanta elstarajn akvonivelojn per la harmona metodo
+- **[lensstudioakvonivelojdato](https://github.com/AndreasKueck/lensstudioakvonivelojdato)** *([🌐Retejo](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e))* - Lens-Studio-pakaĵo por Snapchat-lenso "Akvoniveloj (dato)" prezentanta elstarajn akvonivelojn per la harmona metodo
 - **[transskribi_amr](https://github.com/AndreasKueck/transskribi_amr)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makroo de la Android-a apo MacroDroid, por transskribi amr-sondosieron
 - **[maro](https://github.com/AndreasKueck/maro)** *([🌐Retejo](https://gist.github.com/AndreasKueck/a62016ed4c3efaa477691de06af8d794))* - Pakaĵo por ret-apo kaj Android-apo eligantaj akvonivelojn prognozitajn per la harmona metodo
 - **[telefonikunchatgpt](https://github.com/AndreasKueck/telefonikunchatgpt)** *([🌐Retejo](https://medium.com/westphoenizier/en-esperanto-telefoni-kun-chatgpt-f97a6c3429dc))* - Replit-pakaĵo por programo, kiu ebligas telefonadon kun voĉo kreita per artefarita intelekto kaj respondanta surbaze de granda lingvomodelo de ChatGPT de Open AI
 - **[traduktelefono](https://github.com/AndreasKueck/traduktelefono)** *([🌐Retejo](https://medium.com/westphoenizier/traduktelefono-468e3baba566))* - Replit-pakaĵo por traduktelefono per ChatGPT kaj Twilio: Ambaŭ telefonantoj parolas sian propran lingvon kaj aŭdas en ĝin tradukon de la alia lingvo
-- **[traduko](https://github.com/AndreasKueck/traduko)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makrooj de la Android-a apo MacroDroid por preskaŭ realtempaj transskribo kaj traduko de la sono eniranta en la mikrofonan enigon
+- **[traduko](https://github.com/AndreasKueck/traduko)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makrooj de la Android-a apo MacroDroid por preskaŭ realtempaj transskribo kaj traduko de la sono eniranta en la smartfonan mikrofonon
+- **[elsendoj](https://github.com/AndreasKueck/elsendoj)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbx5zvsyQmJCZRAAxUvqX9tNcV7maLSNBJQhecjkhcuG41eCPoBOVg7Z55pjPdkgshH0/exec))* - Pakaĵo por ret-apo kaj Android-apo eligantaj liston de amplitudmodulade dissendataj radioelsendoj en elektita lingvo
+- **[lensstudiokartonavr](https://github.com/AndreasKueck/lensstudiokartonavr)** *([🌐Retejo](https://www.snapchat.com/lens/bf8bdd8c57094268bb77bdc3da69dbd7))* - Lens-Studio-pakaĵo por Snapchat-lenso "Kartona VR": Uzante ĝin kombine kun ekzemple kartonaj okulvitroj por virtuala realo, oni spertas tri-dimensian efekton en la ĉirkaŭaĵo
+- **[lensstudioprognozodemuf](https://github.com/AndreasKueck/lensstudioprognozodemuf)** *([🌐Retejo](https://www.snapchat.com/lens/3b837ee83eb945eab68e32661de776b8))* - Lens-Studio-pakaĵo por Snapchat-lenso "Prognozo de MUF". Ĝi eligas la maksimuman uzeblan frekvencon (MUF) inter la sendoloko de Europa24 kaj loko de la uzanto surbaze de la "MINIMUF-3"-algoritmo
+- **[lensstudioelsendojareoa](https://github.com/AndreasKueck/lensstudioelsendojareoa)** *([🌐Retejo](https://www.snapchat.com/lens/71ef325bea164496913810ce16d71a56))* - Lens-Studio-pakaĵo por Snapchat-lenso "Elsendoj (areo A)". Ĝi eligas liston de radio-elsendoj, kiuj en la tempo de la uzo de la lenso estas dissendataj en amplitudmodulado en frekvencoj de 2300 ĝis 26100 kHz
+- **[europoaerpremo](https://github.com/AndreasKueck/europoaerpremo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbwc4oIIbLjEPtsnrAXbOTEPbt3biVpJG84uSLNBQDyTQCdtdy5SB1Rc7gzN5AGTn_s5/exec))* - Pakaĵo por ret-apo kaj Android-apo montrantaj la aerpremon super Eŭropo
+- **[lensstudioeuropoaerpremo](https://github.com/AndreasKueck/lensstudioeuropoaerpremo)** *([🌐Retejo](https://www.snapchat.com/lens/052adfc26f8f4adbb4b56fd07804b7b0))* - Lens-Studio-pakaĵo por Snapchat-lenso "Europo: aerpremo". Ĝi montras la aerpremon super Eŭropo
+- **[informtabulo](https://github.com/AndreasKueck/informtabulo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbxtEV2wARkUP-eM7a4s4pKAEDzLpL5kH6RcejkGD6Y_Mo6pttkMJWeY89KUbJyQzDe-Vw/exec))* - Pakaĵo por ret-apo "Radio, televido kaj pli" funkcianta, kiel simpla informtabulo; uzantoj povas kontribui per afiŝoj kaj komentoj
+- **[transskribi](https://github.com/AndreasKueck/transskribi)** - Skripto uzebla kadre de la krozila kromprogramo Tampermonkey kaj ebliganta transskribon de sono venanta de krozila langeto
 
 ## 📜 Vortlistoj:
 
@@ -96,6 +109,7 @@ Bv. aldoni per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Listo de landoj](https://github.com/umpirsky/country-list)** - List of all countries with names and ISO 3166-1 codes in all languages and data formats. 
 - **[Listo de valutoj](https://github.com/umpirsky/currency-list)** - List of all currencies with names and ISO 4217 codes in all languages and all data formats. 
 - **[Listo de Esperantaj urbonomoj](https://github.com/LaPingvino/Esperanto-Town-Names)**
+- **[La 1000 plej oftaj vortoj de Esperanto](https://github.com/automatylicza/esperanto-1000-words)** *([🌐 Retejo](https://esperantopedia.org/eo/lerni/1000-vortoj/))* - La 1000 plej oftaj vortoj laŭ la frazoj de Tatoeba, kun vortspeco, ofteco kaj signifoj en 11 lingvoj (CSV kaj Anki); CC BY-SA 4.0
 
 ## 💬 Tradukado
 
@@ -147,6 +161,10 @@ Blob: Trouble on Blobolonia, videoludo por la Nintendo
 Entertainment System. 
 - **[Age of Empires 1](https://github.com/esperanto-rts/AoE1-eo-mod)** - Esperanto voices for Age of Empires 1
 - **[A Dark Room](https://adarkroom.doublespeakgames.com/?lang=eo)** - A Minimalist Text Adventure 
+- **[What the Shell](https://whattheshell.games)** *([📱 Google Play](https://play.google.com/store/apps/details?id=games.whattheshell.app) | [🍎 App Store](https://apps.apple.com/app/id925447970))* - Strategia tabulludo sur 9×9-krado, en kiu ambaŭ ludantoj metas samtempe, sen vidi la meton de la alia. Kolizioj kreas ovojn. Esperanto estas la unua traduko de la ludo, farita en 2014, kiam ĝi ankoraŭ havis la provizoran nomon "Kvin". En 2026 la ludo estis relanĉita kun reta ludado.
+- **[Flipero](https://github.com/AndreasKueck/lensstudioflipero)** *([🌐 Flipero](https://www.snapchat.com/lens/013d080c76a5411194a3bc223a4d9d9a))* - Lens-Studio-pakaĵo por Snapchat-lenso "Flipero". Ĝi ebligas al uzanto ludi fliperon per smartfono ene de apo Snapchat
+- **[Skato](https://github.com/AndreasKueck/easylensskato)** *([🌐 Skato](https://www.snapchat.com/lens/53639fadb45647bfb25171bd0f94b4e5))* - Prompto uzita, por krei Snapchat-lenson "Skato" per apo Easy Lens. La lenso ebligas al uzanto ludi skaton per smartfono ene de apo Snapchat
+- **[Trovu vortojn](https://github.com/AndreasKueck/easylenstrovuvortojn)** *([🌐 Trovu vortojn](https://www.snapchat.com/lens/0521f6cbf0b148128903660f5c453441))* - Prompto uzita, por krei Snapchat-lenson "Trovu vortojn" per apo Easy Lens. La lenso ebligas al uzanto ludi vortotrovan ludon per smartfono ene de apo Snapchat
 
 ### 🕹️📜 Listoj de Ludoj
 

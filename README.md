@@ -102,7 +102,8 @@ Bv. aldoni per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[lensstudioeuropoaerpremo](https://github.com/AndreasKueck/lensstudioeuropoaerpremo)** *([🌐Retejo](https://www.snapchat.com/lens/052adfc26f8f4adbb4b56fd07804b7b0))* - Lens-Studio-pakaĵo por Snapchat-lenso "Europo: aerpremo". Ĝi montras la aerpremon super Eŭropo
 - **[informtabulo](https://github.com/AndreasKueck/informtabulo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbxtEV2wARkUP-eM7a4s4pKAEDzLpL5kH6RcejkGD6Y_Mo6pttkMJWeY89KUbJyQzDe-Vw/exec))* - Pakaĵo por ret-apo "Radio, televido kaj pli" funkcianta, kiel simpla informtabulo; uzantoj povas kontribui per afiŝoj kaj komentoj
 - **[transskribi](https://github.com/AndreasKueck/transskribi)** - Skripto uzebla kadre de la krozila kromprogramo Tampermonkey kaj ebliganta transskribon de sono venanta de krozila langeto
-- **[akvo](https://github.com/AndreasKueck/akvo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbw1p6S3LyNaRTIcSu4myv3SP-ZzSX302erglMDh8R9wwq1ZRAHCwJ8Nb9q5t-Isl0aX/exec))* - Pakaĵo por ret-apo eliganta akvonivelojn prognozitajn per la harmona prezento de neegalajhoj
+- **[akvo](https://github.com/AndreasKueck/akvo)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbw1p6S3LyNaRTIcSu4myv3SP-ZzSX302erglMDh8R9wwq1ZRAHCwJ8Nb9q5t-Isl0aX/exec))* - Pakaĵo por ret-apo eliganta akvonivelojn prognozitajn per la harmona prezento de neegalaĵoj
+- **[flupauzo](https://github.com/AndreasKueck/flupauzo)** - Programpako, por prognozi akvonivelojn, neenrete funkcianta per komandlinia enigo kadre de la Android-a apo Termux kaj baziĝanta sur programpako slackwater
 
 ## 📜 Vortlistoj:
 
